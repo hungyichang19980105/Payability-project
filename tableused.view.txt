@@ -1,0 +1,67 @@
+view: tableused {
+  derived_table: {
+    sql: SELECT
+          table_catalog, table_schema, table_name, tables.table_type AS table_type1, creation_time AS table_creation_time,
+          COUNT(*) as run_cnt
+      FROM
+          region-us.INFORMATION_SCHEMA.TABLES AS tables
+      LEFT JOIN
+          bq_audits.bq_query_audit_tables AS audit_tables
+              ON tables.table_catalog= audit_tables.projectId AND tables.table_schema= audit_tables.datasetId AND tables.table_name= audit_tables.tableId
+              AND CASE tables.table_type WHEN 'BASE TABLE' THEN audit_tables.table_type ='table' WHEN 'VIEW' THEN  audit_tables.table_type ='view' END
+      WHERE
+          DATE(createTime) >= CURRENT_DATE() - 90
+      GROUP BY
+          table_catalog, table_schema, table_name, table_type1, table_creation_time
+      ORDER BY
+          run_cnt DESC
+       ;;
+  }
+
+  measure: count {
+    type: count
+    drill_fields: [detail*]
+  }
+
+  dimension: table_catalog {
+    type: string
+    sql: ${TABLE}.table_catalog ;;
+  }
+
+  dimension: table_schema {
+    type: string
+    sql: ${TABLE}.table_schema ;;
+  }
+
+  dimension: table_name {
+    type: string
+    sql: ${TABLE}.table_name ;;
+  }
+
+  dimension: table_type1 {
+    type: string
+    sql: ${TABLE}.table_type1 ;;
+  }
+
+  dimension_group: table_creation_time {
+    type: time
+    sql: ${TABLE}.table_creation_time ;;
+  }
+
+  dimension: run_cnt {
+    type: number
+    sql: ${TABLE}.run_cnt ;;
+  }
+
+  set: detail {
+    fields: [
+      table_catalog,
+      table_schema,
+      table_name,
+      table_type1,
+      table_creation_time_time,
+      run_cnt
+    ]
+  }
+
+}
