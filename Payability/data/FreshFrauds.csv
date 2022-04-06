@@ -1,0 +1,846 @@
+Supplier Key,Supplier Name,Customer First Name,Customer Last Name,Merchant,Amount,Date of Txn,Month of Disputed Txns,Date Dispute Initated,Comment,Marqeta Dispute Decision,Auth ID,Risk Score,MID,Temporary Credit Amount,Temporary credit reversed,Logged by
+97ebf3bc-546f-4669-8f35-31d8b8fea6ee,"EvySue & Company, LLC",Cheana,Conrad,ETS*CTF TOEFL iBT Test,$52.79,12/27/2018,"Dec , 2018",,3DS,"Verified by Visa, no dispute initiated ",413878,83,,$51.73,$0,
+97ebf3bc-546f-4669-8f35-31d8b8fea6ee,"EvySue & Company, LLC",Cheana,Conrad,ETS*CTF TOEFL iBT Test,$52.79,12/27/2018,"Dec , 2018",,3DS,"Verified by Visa, no dispute initiated ",413891,83,,$51.73,$0,
+97ebf3bc-546f-4669-8f35-31d8b8fea6ee,"EvySue & Company, LLC",Cheana,Conrad,ETS*GRE Exam,$52.79,12/27/2018,"Dec , 2018",,3DS,"Verified by Visa, no dispute initiated ",411328,43,,$51.73,$0,
+97ebf3bc-546f-4669-8f35-31d8b8fea6ee,"EvySue & Company, LLC",Cheana,Conrad,ETS*GRE Exam,$52.79,12/27/2018,"Dec , 2018",,3DS,"Verified by Visa, no dispute initiated ",413931,64,,$51.73,$0,
+97ebf3bc-546f-4669-8f35-31d8b8fea6ee,"EvySue & Company, LLC",Cheana,Conrad,ETS*CTF TOEFL iBT Test,$52.79,12/27/2018,"Dec , 2018",,3DS,"Verified by Visa, no dispute initiated ",413903,86,,$51.73,$0,
+97ebf3bc-546f-4669-8f35-31d8b8fea6ee,"EvySue & Company, LLC",Cheana,Conrad,ETS*CTF TOEFL iBT Test,$52.79,12/27/2018,"Dec , 2018",,3DS,"Verified by Visa, no dispute initiated ",414006,78,,$51.73,$0,
+97ebf3bc-546f-4669-8f35-31d8b8fea6ee,"EvySue & Company, LLC",Cheana,Conrad,ETS*CTF TOEFL iBT Test,$52.79,12/27/2018,"Dec , 2018",,3DS,"Verified by Visa, no dispute initiated ",414655,76,,$51.73,$0,
+97ebf3bc-546f-4669-8f35-31d8b8fea6ee,"EvySue & Company, LLC",Cheana,Conrad,ETS*GRE Exam,$52.79,12/27/2018,"Dec , 2018",,3DS,"Verified by Visa, no dispute initiated ",413925,61,,$51.73,$0,
+97ebf3bc-546f-4669-8f35-31d8b8fea6ee,"EvySue & Company, LLC",Cheana,Conrad,ETS*GRE Exam,$52.79,12/25/2018,"Dec , 2018",,3DS,"Verified by Visa, no dispute initiated ",404756,52,,$51.73,$0,
+97ebf3bc-546f-4669-8f35-31d8b8fea6ee,"EvySue & Company, LLC",Cheana,Conrad,ETS*GRE Exam,$52.79,12/25/2018,"Dec , 2018",,3DS,"Verified by Visa, no dispute initiated ",406310,35,,$51.73,$0,
+97ebf3bc-546f-4669-8f35-31d8b8fea6ee,"EvySue & Company, LLC",Cheana,Conrad,ETS*GRE Exam,$52.79,12/25/2018,"Dec , 2018",,3DS,"Verified by Visa, no dispute initiated ",406302,37,,$51.73,$0,
+97ebf3bc-546f-4669-8f35-31d8b8fea6ee,"EvySue & Company, LLC",Cheana,Conrad,ETS*GRE Exam,$52.79,12/25/2018,"Dec , 2018",,3DS,"Verified by Visa, no dispute initiated ",404776,59,,$51.73,$0,
+97ebf3bc-546f-4669-8f35-31d8b8fea6ee,"EvySue & Company, LLC",Cheana,Conrad,ETS*GRE Exam,$52.79,12/25/2018,"Dec , 2018",,3DS,"Verified by Visa, no dispute initiated ",404814,47,,$51.73,$0,
+97ebf3bc-546f-4669-8f35-31d8b8fea6ee,"EvySue & Company, LLC",Cheana,Conrad,ETS*GRE Exam,$52.79,12/25/2018,"Dec , 2018",,3DS,"Verified by Visa, no dispute initiated ",404834,37,,$51.73,$0,
+97ebf3bc-546f-4669-8f35-31d8b8fea6ee,"EvySue & Company, LLC",Cheana,Conrad,ETS*GRE Exam,$52.79,12/25/2018,"Dec , 2018",,3DS,"Verified by Visa, no dispute initiated ",406322,54,,$51.73,$0,
+97ebf3bc-546f-4669-8f35-31d8b8fea6ee,"EvySue & Company, LLC",Cheana,Conrad,ETS*GRE Exam,$52.79,12/25/2018,"Dec , 2018",,3DS,"Verified by Visa, no dispute initiated ",404458,34,,$51.73,$0,
+97ebf3bc-546f-4669-8f35-31d8b8fea6ee,"EvySue & Company, LLC",Cheana,Conrad,ETS*CTF TOEFL iBT Test,$52.79,12/25/2018,"Dec , 2018",,3DS,"Verified by Visa, no dispute initiated ",404450,54,,$51.73,$0,
+87cc5d1f-58d2-4fc0-84fe-030b02e9bd81,Deal Spin HQ,Brent,Lane,POLAR ELECTRO,$52.79,1/20/2019,"Jan , 2019",,"3DS, please also provide merchand ID (MID)","Verified by Visa, no dispute initiated ",600114,74,20479614,"$1,220.29",$0,
+87cc5d1f-58d2-4fc0-84fe-030b02e9bd82,Deal Spin HQ,Brent,Lane,,$52.79,4/18/2019,"Apr , 2019",,3DS,"Verified by Visa, no dispute initiated ",,,,$281.99,$0,
+87cc5d1f-58d2-4fc0-84fe-030b02e9bd83,Deal Spin HQ,Brent,Lane,,$52.79,4/18/2019,"Apr , 2019",,3DS,"Verified by Visa, no dispute initiated ",,,,$389.59,$0,
+87cc5d1f-58d2-4fc0-84fe-030b02e9bd84,Deal Spin HQ,Brent,Lane,,$52.79,4/18/2019,"Apr , 2019",,3DS,"Verified by Visa, no dispute initiated ",,,,$281.99,$0,
+dad85a36-7563-400c-a77f-49ec683a4789,Ka wai Kwok,Ka wai,Kwok,ISTORES.SK,$52.79,1/27/2019,"Jan , 2019",,3DS,"Verified by Visa, no dispute initiated ",667962,98,,"$1,398.07",$0,
+dad85a36-7563-400c-a77f-49ec683a4789,Ka wai Kwok,Ka wai,Kwok,HTTP://LENOVOOLIN,$52.79,1/26/2019,"Jan , 2019",,3DS,"Verified by Visa, no dispute initiated ",663499,98,,"$1,062.26",$0,
+dad85a36-7563-400c-a77f-49ec683a4789,Ka wai Kwok,Ka wai,Kwok,SAMSUNGGALERIA.NET,$52.79,1/25/2019,"Jan , 2019",,3DS,"Verified by Visa, no dispute initiated ",657904,89,,"$1,006.29",$0,
+dad85a36-7563-400c-a77f-49ec683a4790,Ka wai Kwok,Ka wai,Kwok,Ovarian Australia,$52.79,1/25/2019,"Jan , 2019",,Dispute must be over $25,No dispute initiated,,,,$7.05,$0,
+dad85a36-7563-400c-a77f-49ec683a4791,Ka wai Kwok,Ka wai,Kwok,Ovarian Australia,$52.79,1/25/2019,"Jan , 2019",,Dispute must be over $25,No dispute initiated,,,,$17.56,$0,
+dad85a36-7563-400c-a77f-49ec683a4792,Ka wai Kwok,Ka wai,Kwok,Hepititis Australia ,$52.79,1/26/2019,"Jan , 2019",,Dispute must be over $25,No dispute initiated,,,,$1.41,$0,
+e3511ae5-bbdf-41fd-acf0-c84596dd00f3,ANDERS INTERNATIONAL INC.,Audrius,Dauderis,,$52.79,4/9/2019,"Apr , 2019",,3DS,"Verified by Visa, no dispute initiated ",,,,52.79,$0,
+e3511ae5-bbdf-41fd-acf0-c84596dd00f3,ANDERS INTERNATIONAL INC.,Audrius,Dauderis,POLAR ELECTRO,$52.79,2/3/2019,"Feb , 2019",,"PENDING 3DS, please also provide merchand ID (MID)",Transaction Declined - No dispute initiated,709162,75,20479614,52.79,$0,
+e3511ae5-bbdf-41fd-acf0-c84596dd00f3,ANDERS INTERNATIONAL INC.,Audrius,Dauderis,POLAR ELECTRO,$52.79,2/3/2019,"Feb , 2019",,"No dispute initiated, transaction dropped off before it was completed ",N/A,709160,76,20479614,52.79,"$1,256.58",
+d6e35393-55ca-40b9-9860-90ed6facbc86,rob cotton,Rob,Cotton,Target,$52.79,1/21/2019,"Jan , 2019",,"No 3DS, but card was used at POS (in a different state, after the card was used in another Target location)",Case Lost - Transaction used at POS,622876,99,,52.79,$0,
+d6e35393-55ca-40b9-9860-90ed6facbc86,rob cotton,Rob,Cotton,Target,$52.79,1/21/2019,"Jan , 2019",,"No 3DS, but card was used at POS (in a different state, after the card was used in another Target location)",Case Lost - Transaction used at POS,622872,99,,52.79,$0,
+d6e35393-55ca-40b9-9860-90ed6facbc86,rob cotton,Rob,Cotton,Target,$52.79,1/21/2019,"Jan , 2019",,"No 3DS, but card was used at POS (in a different state, after the card was used in another Target location)",Case Lost - Transaction used at POS,622868,99,,52.79,$0,
+d6e35393-55ca-40b9-9860-90ed6facbc86,rob cotton,Rob,Cotton,Target,$52.79,1/21/2019,"Jan , 2019",,"No 3DS, but card was used at POS (in a different state, after the card was used in another Target location)",Case Lost - Transaction used at POS,622864,99,,52.79,$0,
+d6e35393-55ca-40b9-9860-90ed6facbc86,rob cotton,Rob,Cotton,Target,$52.79,1/21/2019,"Jan , 2019",,"No 3DS, but card was used at POS (in a different state, after the card was used in another Target location)",Case Lost - Transaction used at POS,622858,99,,52.79,$0,
+d6e35393-55ca-40b9-9860-90ed6facbc86,rob cotton,Rob,Cotton,Target,$52.79,1/21/2019,"Jan , 2019",,"No 3DS, but card was used at POS (in a different state, after the card was used in another Target location)",Case Lost - Transaction used at POS,622834,67,,52.79,$0,
+d6e35393-55ca-40b9-9860-90ed6facbc86,rob cotton,Rob,Cotton,Target,$52.79,1/21/2019,"Jan , 2019",,"No 3DS, but card was used at POS (in a different state, after the card was used in another Target location)",Case Lost - Transaction used at POS,622884,99,,52.79,$0,
+d6e35393-55ca-40b9-9860-90ed6facbc86,rob cotton,Rob,Cotton,Target,$52.79,1/21/2019,"Jan , 2019",,"No 3DS, but card was used at POS (in a different state, after the card was used in another Target location). NOTE - temp credit amount adjusted to account for human error when calculating temp credit. Should have been $783 total, we gave him $776",Case Lost - Transaction used at POS,622880,99,,52.79,$0,
+a6af310e-7754-4ca8-8d9b-a7180e1be0b4,Juan Lopez,Juan,Lopez,AVH B AVEUGLES,$52.79,2/27/2019,"Feb , 2019",3/1/2019,Dispute initiated with Marqeta,Case Won,,,,52.79,$0,
+a6af310e-7754-4ca8-8d9b-a7180e1be0b4,Juan Lopez,Juan,Lopez,NEOPOST FRANCE,$52.79,3/1/2019,"Mar , 2019",3/1/2019,"3DS, Marqeta will not dispute further. Payability offered credit to supplier for this amount",VBV no dispute initiated,,,,52.79,$0,
+a6af310e-7754-4ca8-8d9b-a7180e1be0b4,Juan Lopez,Juan,Lopez,AIR COTE DIVOIRE,$52.79,2/27/2019,"Feb , 2019",3/1/2019,Marqeta unable to initiate chargeback for fraud for this card present Chip read transaction. ,Case Lost - Chip read at transaction ,,,,52.79,$0,
+a6af310e-7754-4ca8-8d9b-a7180e1be0b4,Juan Lopez,Juan,Lopez,Back Market,$52.79,2/27/2019,"Feb , 2019",2/29/19,"VbV, no refund given by MQ. 5/31 Payability refunded supplier for this purchase",VBV no dispute initiated,,,,52.79,$0,
+e55403ed-83b1-4af7-a0ad-5cc94153342e,"MHA, LLC- DBA Uniform World",Mahmood,Akhtar,TARGET T-2430,$52.79,5/6/2019,"May , 2019",5/9,Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read. Payability to refund amount,Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read. Payability to refund amount,,,,52.79,$0,
+e55403ed-83b1-4af7-a0ad-5cc94153342e,"MHA, LLC- DBA Uniform World",Mahmood,Akhtar,FOOTACTION 57787,$52.79,5/6/2019,"May , 2019",5/9,Amount too small to dispute. Payability to refund amount,,,,,52.79,$0,
+e55403ed-83b1-4af7-a0ad-5cc94153342e,"MHA, LLC- DBA Uniform World",Mahmood,Akhtar,AUNTIE ANNES PRETZELS US,$52.79,5/6/2019,"May , 2019",5/9,Amount too small to dispute. Payability to refund amount,,,,,52.79,$0,
+e55403ed-83b1-4af7-a0ad-5cc94153342e,"MHA, LLC- DBA Uniform World",Mahmood,Akhtar,FOOTACTION 57787,$52.79,5/6/2019,"May , 2019",5/9,Amount too small to dispute. Payability to refund amount,,,,,52.79,$0,
+e55403ed-83b1-4af7-a0ad-5cc94153342e,"MHA, LLC- DBA Uniform World",Mahmood,Akhtar,LITTLE CAESARS 5,$52.79,5/6/2019,"May , 2019",5/9,Amount too small to dispute. Payability to refund amount,,,,,52.79,$0,
+e55403ed-83b1-4af7-a0ad-5cc94153342e,"MHA, LLC- DBA Uniform World",Mahmood,Akhtar,Famous Footwear 2503,$52.79,5/7/2019,"May , 2019",5/9,Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read. Payability to refund amount,card electronically read no dispute initiated,,,,52.79,$0,
+e55403ed-83b1-4af7-a0ad-5cc94153342e,"MHA, LLC- DBA Uniform World",Mahmood,Akhtar,Gamestop 3672,$52.79,5/7/2019,"May , 2019",5/9,Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read. Payability to refund amount,card electronically read no dispute initiated,,,,52.79,$0,
+e55403ed-83b1-4af7-a0ad-5cc94153342e,"MHA, LLC- DBA Uniform World",Mahmood,Akhtar,TARGET T-1930,$52.79,5/7/2019,"May , 2019",5/9,Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read. Payability to refund amount,card electronically read no dispute initiated,,,,52.79,$0,
+e55403ed-83b1-4af7-a0ad-5cc94153342e,"MHA, LLC- DBA Uniform World",Mahmood,Akhtar,TARGET T-1931,$52.79,5/7/2019,"May , 2019",5/9,Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read. Payability to refund amount,card electronically read no dispute initiated,,,,52.79,$0,
+e55403ed-83b1-4af7-a0ad-5cc94153342e,"MHA, LLC- DBA Uniform World",Mahmood,Akhtar,Taco Bell #004955,$52.79,5/7/2019,"May , 2019",5/9,Amount too small to dispute. Payability to refund amount,,,,,52.79,$0,
+e55403ed-83b1-4af7-a0ad-5cc94153342e,"MHA, LLC- DBA Uniform World",Mahmood,Akhtar,STOP & SHOP 0462,$52.79,5/7/2019,"May , 2019",5/9,Amount too small to dispute. Payability to refund amount,,,,,52.79,$0,
+e55403ed-83b1-4af7-a0ad-5cc94153342e,"MHA, LLC- DBA Uniform World",Mahmood,Akhtar,Gamestop 3672,$52.79,5/7/2019,"May , 2019",5/9,Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read. Payability to refund amount,card electronically read no dispute initiated,,,,52.79,$0,
+e55403ed-83b1-4af7-a0ad-5cc94153342e,"MHA, LLC- DBA Uniform World",Mahmood,Akhtar,"EXXON KELLY'S CAR WASH,",$52.79,5/7/2019,"May , 2019",5/9,Chargeback Dispute Initiated 5/9,chargeback won 6/11. ,,,,52.79,$43,
+e55403ed-83b1-4af7-a0ad-5cc94153342e,"MHA, LLC- DBA Uniform World",Mahmood,Akhtar,"EXXON KELLY'S CAR WASH,",$52.79,5/7/2019,"May , 2019",5/9,Chargeback Dispute Initiated 5/9,,,,,52.79,$0,
+37b5c3fb-8149-4540-a8f6-2e4e7f35b959,ACM MALL LLC,Atila,Mariano,HappyRail B.V,$52.79,5/21/2019,"May , 2019",5/22,"Dispute initiated 5/22 with Marqeta. Temporary credit given to supplier from Payability. 5/30- Marqeta stated Vbv, no refund from MQ",VBV no dispute initiated,,,,52.79,$0,
+37b5c3fb-8149-4540-a8f6-2e4e7f35b959,ACM MALL LLC,Atila,Mariano,HappyRail B.V,$52.79,5/21/2019,"May , 2019",5/22,"Dispute initiated 5/22 with Marqeta. Temporary credit given to supplier from Payability 5/30- Marqeta stated Vbv, no refund from MQ",VBV no dispute initiated,,,,52.79,$0,
+37b5c3fb-8149-4540-a8f6-2e4e7f35b959,ACM MALL LLC,Atila,Mariano,QBB*536000000036048182 OE,$52.79,5/21/2019,"May , 2019",5/22,"Dispute initiated 5/22 with Marqeta. Temporary credit given to supplier from Payability 5/30- Marqeta stated Vbv, no refund from MQ",VBV no dispute initiated,,,,52.79,$0,
+37b5c3fb-8149-4540-a8f6-2e4e7f35b959,ACM MALL LLC,Atila,Mariano,AIR MALTA,$52.79,5/21/2019,"May , 2019",5/22,"Dispute initiated 5/22 with Marqeta. Temporary credit given to supplier from Payability 5/30- Marqeta stated Vbv, no refund from MQ",VBV no dispute initiated,,,,52.79,$0,
+37b5c3fb-8149-4540-a8f6-2e4e7f35b959,ACM MALL LLC,Atila,Mariano,NTV WWW.ITALOTRENO.IT,$52.79,5/21/2019,"May , 2019",,Amount never cleared. Reversed temporary credit on 6/10 for $208.03,,,,,52.79,$208.03,
+ddc03129-cee2-48d2-acf1-7eb0fe6a939f,Fabian Povsic,Fabian,Povsic,Kicks Never Not Ballin' G,$52.79,5/21/2019,"May , 2019",5/28,"VBV, no refund given by MQ. 5/31 Payability refunded supplier for this purchase",VBV no dispute initiated,,,,52.79,$0,
+ddc03129-cee2-48d2-acf1-7eb0fe6a939f,Fabian Povsic,Fabian,Povsic,Kicks Never Not Ballin' G,$52.79,5/21/2019,"May , 2019",5/28,"VBV, no refund given by MQ. 5/31 Payability refunded supplier for this purchase",VBV no dispute initiated,,,,52.79,$0,
+221c6c00-63e6-42d6-8c9b-839af77d1256,Bella Cima,Suzanah,Jura,Kicks Never Not Ballin' G,$52.79,6/5/2019,"Jun , 2019",6/7,Dispute initiated 6/7 with Marqeta. Temporary credit given to supplier from Payability  6/6,VBV no dispute initiated,,,,52.79,$0,
+221c6c00-63e6-42d6-8c9b-839af77d1256,Bella Cima,Suzanah,Jura,Kicks Never Not Ballin' G,$52.79,6/5/2019,"Jun , 2019",,Transactions dropped off,,,,,52.79,$910.61,
+221c6c00-63e6-42d6-8c9b-839af77d1256,Bella Cima,Suzanah,Jura,Kicks Never Not Ballin' G,$52.79,6/5/2019,"Jun , 2019",,Transactions dropped off,,,,,52.79,$932.94,
+221c6c00-63e6-42d6-8c9b-839af77d1256,Bella Cima,Suzanah,Jura,KPFamintGmbH,$52.79,6/5/2019,"Jun , 2019",6/7,Dispute initiated 6/7 with Marqeta. Temporary credit given to supplier from Payability  6/6,,,,,52.79,$0,
+221c6c00-63e6-42d6-8c9b-839af77d1256,Bella Cima,Suzanah,Jura,WWW.BIGBUS.IT,$52.79,6/6/2019,"Jun , 2019",6/10,Dispute initiated 6/10 with Marqeta. Temporary credit given to supplier from Payability 6/6,Dispute Initiated 6/11 from MQ,,,,52.79,$0,
+221c6c00-63e6-42d6-8c9b-839af77d1256,Bella Cima,Suzanah,Jura,WWW.BIGBUS.IT,$52.79,6/6/2019,"Jun , 2019",6/10,Dispute initiated 6/10 with Marqeta. Temporary credit given to supplier from Payability 6/6,Dispute Initiated 6/11 from MQ ,,,,52.79,$0,
+ca90a131-53ca-4199-9437-6a3c2e1b9cd8,Beastmode Resales LLC,Michelle,Cooper,888 Digital,$52.79,6/5/2019,"Jun , 2019",,Dispute initiated 6/5 with Marqeta. Waiting additional documentation from customer to help case. Customer was sold counterfeit goods for resale on Amazon. Resulted in Amazon suspension.,,,,,52.79,$0,
+ca90a131-53ca-4199-9437-6a3c2e1b9cd9,Beastmode Resales LLC,Michelle,Cooper,888 Digital,$52.79,6/5/2019,"Jun , 2019",,Dispute initiated 6/5 with Marqeta. Waiting additional documentation from customer to help case. Customer was sold counterfeit goods for resale on Amazon. Resulted in Amazon suspension.,,,,,52.79,$0,
+ca90a131-53ca-4199-9437-6a3c2e1b9cd10,Beastmode Resales LLC,Michelle,Cooper,888 Digital,$52.79,6/5/2019,"Jun , 2019",,Dispute initiated 6/5 with Marqeta. Waiting additional documentation from customer to help case. Customer was sold counterfeit goods for resale on Amazon. Resulted in Amazon suspension.,,,,,52.79,$0,
+ca90a131-53ca-4199-9437-6a3c2e1b9cd11,Beastmode Resales LLC,Michelle,Cooper,888 Digital,$52.79,6/5/2019,"Jun , 2019",,Dispute initiated 6/5 with Marqeta. Waiting additional documentation from customer to help case. Customer was sold counterfeit goods for resale on Amazon. Resulted in Amazon suspension.,,,,,52.79,$0,
+ca90a131-53ca-4199-9437-6a3c2e1b9cd12,Beastmode Resales LLC,Michelle,Cooper,888 Digital,$52.79,6/5/2019,"Jun , 2019",,Dispute initiated 6/5 with Marqeta. Waiting additional documentation from customer to help case. Customer was sold counterfeit goods for resale on Amazon. Resulted in Amazon suspension.,,,,,52.79,$0,
+ca90a131-53ca-4199-9437-6a3c2e1b9cd13,Beastmode Resales LLC,Michelle,Cooper,888 Digital,$52.79,6/5/2019,"Jun , 2019",,Dispute initiated 6/5 with Marqeta. Waiting additional documentation from customer to help case. Customer was sold counterfeit goods for resale on Amazon. Resulted in Amazon suspension.,,,,,52.79,$0,
+ca90a131-53ca-4199-9437-6a3c2e1b9cd14,Beastmode Resales LLC,Michelle,Cooper,888 Digital,$52.79,6/5/2019,"Jun , 2019",,Dispute initiated 6/5 with Marqeta. Waiting additional documentation from customer to help case. Customer was sold counterfeit goods for resale on Amazon. Resulted in Amazon suspension.,,,,,52.79,$0,
+9173fe5f-f31f-4bab-b828-ba3560f688f9,James Halkias,James,Halkias,Target,$52.79,6/10/2019,"Jun , 2019",,Dispute Initiated 6/10 with Marqeta. Temporary credit given to supplier from Payability 6/6,Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read.,,,,52.79,$0,
+9173fe5f-f31f-4bab-b828-ba3560f688f10,James Halkias,James,Halkias,Target,$52.79,6/10/2019,"Jun , 2019",,Dispute Initiated 6/10 with Marqeta. Temporary credit given to supplier from Payability 6/6,Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read.,,,,52.79,$30,
+9173fe5f-f31f-4bab-b828-ba3560f688f11,James Halkias,James,Halkias,Apple,$52.79,6/10/2019,"Jun , 2019",,Charge still pending on MQ - likely will drop off but we gave temporary credit on 6/6,,,,,52.79,$200,
+21b97c9e-0bea-4000-9b5c-30013d374ca9,Front Street Management INC,Ronald,Postlewait,IMPORT IMAGE RACING,$52.79,5/28/2019,"May , 2019",6/10,Supplier has worked with merchant before however has no purchase order for this amount from the merchant. Has reached out to the merchant to try to get refund.,,,,,52.79,$0,
+e7cbf07c-25da-4378-b8c8-84056ca9291e,Keisha Duke,Keisha,Duke,Rent Recovery,$52.79,6/17/2019,"Jun , 2019",6/18,Marlon from Marqeta- dispute initiated,Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read.,,,,52.79,$0,
+aa58b88c-cfae-4e98-a399-0ce4c66c31df,Judy Li,Judy,Li,The Tavern LLC,$52.79,6/26/2019,"Jun , 2019",6/27/2019,"No dispute initiated by MQ, card was electronically read",Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read.,,,,52.79,$0,
+aa58b88c-cfae-4e98-a399-0ce4c66c31df,Judy Li,Judy,Li,Omnia Las Vegas,$52.79,6/26/2019,"Jun , 2019",6/27/2019,"No dispute initiated by MQ, card was electronically read",Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read.,,,,52.79,$0,
+aa58b88c-cfae-4e98-a399-0ce4c66c31df,Judy Li,Judy,Li,Omnia Las Vegas,$52.79,6/26/2019,"Jun , 2019",6/27/2019,"No dispute initiated by MQ, card was electronically read",Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read.,,,,52.79,$0,
+aa58b88c-cfae-4e98-a399-0ce4c66c31df,Judy Li,Judy,Li,Omnia Las Vegas,$52.79,6/26/2019,"Jun , 2019",6/27/2019,"No dispute initiated by MQ, card was electronically read",Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read.,,,,52.79,$0,
+aa58b88c-cfae-4e98-a399-0ce4c66c31df,Judy Li,Judy,Li,Omnia Las Vegas,$52.79,6/26/2019,"Jun , 2019",6/27/2019,"No dispute initiated by MQ, card was electronically read",Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read.,,,,52.79,$0,
+aa58b88c-cfae-4e98-a399-0ce4c66c31df,Judy Li,Judy,Li,Omnia Las Vegas,$52.79,6/26/2019,"Jun , 2019",6/27/2019,"No dispute initiated by MQ, card was electronically read",Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read.,,,,52.79,$0,
+88033564-27f6-4bb3-8ee4-3d3771499928,Promotional Marketing Associates Inc,James,Plante,Walmart #4137,$52.79,6/26/2019,"Jun , 2019",6/27/2019,6/27 MQ initiated dispute. No indication of Vbv ,,,,,52.79,,
+88033564-27f6-4bb3-8ee4-3d3771499928,Promotional Marketing Associates Inc,James,Plante,Walmart #3794,$52.79,6/26/2019,"Jun , 2019",6/27/2019,6/27 MQ initiated dispute. No indication of Vbv ,,,,,52.79,,
+88033564-27f6-4bb3-8ee4-3d3771499928,Promotional Marketing Associates Inc,James,Plante,WAL-MART #5073,$52.79,6/25/2019,"Jun , 2019",6/27/2019,6/27 MQ initiated dispute. No indication of Vbv ,,,,,52.79,,
+4ccd0dc3-9dd6-4121-ab8b-2ab5f5785f06,Augusta Portraits LLC,Brad,Salmons,FLANNELSFASHION.,$52.79,6/27/2019,"Jun , 2019",,,,,,,52.79,,
+4ccd0dc3-9dd6-4121-ab8b-2ab5f5785f06,Augusta Portraits LLC,Brad,Salmons,FLANNELSFASHION.,$52.79,6/27/2019,"Jun , 2019",,,,,,,52.79,,
+23468af0-2b4c-4d1b-a993-0d65a69b3bcb,Ray Young,Ray,Young,CL. MONACO MIAMI B 106,$52.79,6/29/2019,"Jun , 2019",7/1/2019,Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read.,,,,,52.79,$0.00,
+23468af0-2b4c-4d1b-a993-0d65a69b3bcb,Ray Young,Ray,Young,FREE PEOPLE #1811,$52.79,6/29/2019,"Jun , 2019",7/1/2019,"rejected, under $25",,,,,52.79,$0.00,
+23468af0-2b4c-4d1b-a993-0d65a69b3bcb,Ray Young,Ray,Young,CL. MONACO MIAMI B 106,$52.79,6/29/2019,"Jun , 2019",7/1/2019,Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read.,,,,,52.79,$0.00,
+23468af0-2b4c-4d1b-a993-0d65a69b3bcb,Ray Young,Ray,Young,NOBU - MIAMI AT EDEN ROC,$52.79,6/29/2019,"Jun , 2019",7/1/2019,Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read.,,,,,52.79,$0.00,
+23468af0-2b4c-4d1b-a993-0d65a69b3bcb,Ray Young,Ray,Young,ROSS STORES #1816,$52.79,6/29/2019,"Jun , 2019",7/1/2019,Dispute is invalid under Dispute Conditions 10.2 and 10.3 as the transaction qualifies for Visa Easy Payment Service (VEPS) Transaction.,,,,,52.79,$0.00,
+23468af0-2b4c-4d1b-a993-0d65a69b3bcb,Ray Young,Ray,Young,ROSS STORES #1816,$52.79,6/29/2019,"Jun , 2019",7/1/2019,Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read.,,,,,52.79,$0.00,
+23468af0-2b4c-4d1b-a993-0d65a69b3bcb,Ray Young,Ray,Young,BIG PINK RESTAURANT,$52.79,6/29/2019,"Jun , 2019",7/1/2019,Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read.,,,,,52.79,$0.00,
+23468af0-2b4c-4d1b-a993-0d65a69b3bcb,Ray Young,Ray,Young,MARSHALLS #1343,$52.79,6/28/2019,"Jun , 2019",7/1/2019,Rejected - under $25,,,,,52.79,$0.00,
+23468af0-2b4c-4d1b-a993-0d65a69b3bcb,Ray Young,Ray,Young,URBAN OUTFITTERS #1010,$52.79,6/28/2019,"Jun , 2019",7/1/2019,Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read.,,,,,52.79,$0.00,
+5356a26f-caae-4f3f-8be0-b1d6c95bbe70,Bay Ridge Industrial Corp.,Kyle,Piaquadio,fameassist.com,$52.79,6/12/2019,"Jun , 2019",n/a,,,,,,52.79,$0.00,
+5356a26f-caae-4f3f-8be0-b1d6c95bbe71,Bay Ridge Industrial Corp.,Kyle,Piaquadio,Montale,$52.79,7/5/2019,"Jul , 2019",7/5/2019,"7/9 - MQ will not process dispute, VBV transaction ",,,,,52.79,$0,
+5356a26f-caae-4f3f-8be0-b1d6c95bbe72,Bay Ridge Industrial Corp.,Kyle,Piaquadio,Montale,$52.79,7/3/2019,"Jul , 2019",7/5/2019,"7/9 - MQ will not process dispute, VBV transaction ",,,,,52.79,$0,
+0430ed74-7c50-4900-9558-48dc543156a2,KJAL Enterprises Inc,Jefferson,Lawrence,Cricket WRLS,$52.79,7/18/2019,"Jul , 2019",07/19/2019,,,,,,52.79,,
+7c06677b-db2f-4af9-bd7f-af12c3a0ae01,Ancient City Associates,Karen,Larry,Familymart,$52.79,7/21/2019,"Jul , 2019",7/24/19,7/24- disputed with MQ,,,,,52.79,,
+7c06677b-db2f-4af9-bd7f-af12c3a0ae01,Ancient City Associates,Karen,Larry,Familymart,$52.79,7/21/2019,"Jul , 2019",7/25/19,7/25- disputed withMQ,,,,,52.79,,
+7c06677b-db2f-4af9-bd7f-af12c3a0ae01,Ancient City Associates,Karen,Larry,siteitakusi,$52.79,7/22/2019,"Jul , 2019",NA,"too small, not disputing",,,,,52.79,,
+7c06677b-db2f-4af9-bd7f-af12c3a0ae01,Ancient City Associates,Karen,Larry,Familymart,$52.79,7/22/2019,"Jul , 2019",NA,"too small, not disputing",,,,,52.79,,
+7c06677b-db2f-4af9-bd7f-af12c3a0ae01,Ancient City Associates,Karen,Larry,niwakatakusi,$52.79,7/22/2019,"Jul , 2019",NA,"too small, not disputing",,,,,52.79,,
+7c06677b-db2f-4af9-bd7f-af12c3a0ae01,Ancient City Associates,Karen,Larry,Donkiho-tenakasuten,$52.79,7/22/2019,"Jul , 2019",7/24/19,7/24- disputed with MQ,,,,,52.79,,
+995f487c-c4c7-4f8b-909a-5791ccb1376c,Manuel Gongora,Manuel,Gongora,MOBILE CREATE,$52.79,7/20/2019,"Jul , 2019",NA,"too small, not disputing",,,,,52.79,$0,
+995f487c-c4c7-4f8b-909a-5791ccb1376c,Manuel Gongora,Manuel,Gongora,CHECKER TAXI(SANWAKOTSU),$52.79,7/20/2019,"Jul , 2019",NA,"too small, not disputing",,,,,52.79,$0,
+995f487c-c4c7-4f8b-909a-5791ccb1376c,Manuel Gongora,Manuel,Gongora,FAMILYMART,$52.79,7/20/2019,"Jul , 2019",NA,"too small, not disputing",,,,,52.79,$0,
+995f487c-c4c7-4f8b-909a-5791ccb1376c,Manuel Gongora,Manuel,Gongora,HINOMARU JIDOSHA,$52.79,7/19/2019,"Jul , 2019",NA,"too small, not disputing",,,,,52.79,$0,
+995f487c-c4c7-4f8b-909a-5791ccb1376c,Manuel Gongora,Manuel,Gongora,SUBARUKOUTUUKITASENNZIYUE,$52.79,7/19/2019,"Jul , 2019",NA,"too small, not disputing",,,,,52.79,$0,
+995f487c-c4c7-4f8b-909a-5791ccb1376c,Manuel Gongora,Manuel,Gongora,ADATITAKUSI-,$52.79,7/19/2019,"Jul , 2019",NA,"too small, not disputing",,,,,52.79,$0,
+995f487c-c4c7-4f8b-909a-5791ccb1376c,Manuel Gongora,Manuel,Gongora,FAMILYMART,$52.79,7/19/2019,"Jul , 2019",NA,"too small, not disputing",,,,,52.79,$0,
+995f487c-c4c7-4f8b-909a-5791ccb1376c,Manuel Gongora,Manuel,Gongora,HINOMARU JIDOSHA,$52.79,7/19/2019,"Jul , 2019",NA,"too small, not disputing",,,,,52.79,$0,
+995f487c-c4c7-4f8b-909a-5791ccb1376c,Manuel Gongora,Manuel,Gongora,MARUETU(AUTHORI),$52.79,7/18/2019,"Jul , 2019",NA,"too small, not disputing",,,,,52.79,$0,
+377603d2-a03f-4616-acf8-d9331b5b839c,Jill Ringer,Jill,Ringer,AliExpress.com,$52.79,7/15/2019,"Jul , 2019",NA,"too small, not disputing",,,,,52.79,$0,
+377603d2-a03f-4616-acf8-d9331b5b839c,Jill Ringer,Jill,Ringer,AliExpress.com,$52.79,7/12/2019,"Jul , 2019",NA,"too small, not disputing",,,,,52.79,$0,
+68069977-a004-4a67-8009-eb3fa564e93c,Priceless Marketing Solutions,Reginald,Price,MoviePass Inc,$52.79,8/8/2019,"Aug , 2019",NA,"too small, not disputing",,,,,52.79,,
+68069977-a004-4a67-8009-eb3fa564e93c,Priceless Marketing Solutions,Reginald,Price,MoviePass Inc,$52.79,8/8/2019,"Aug , 2019",NA,"too small, not disputing",,,,,52.79,,
+68069977-a004-4a67-8009-eb3fa564e93c,Priceless Marketing Solutions,Reginald,Price,MoviePass Inc,$52.79,8/8/2019,"Aug , 2019",NA,"too small, not disputing",,,,,52.79,,
+68069977-a004-4a67-8009-eb3fa564e93c,Priceless Marketing Solutions,Reginald,Price,MoviePass Inc,$52.79,8/8/2019,"Aug , 2019",NA,"too small, not disputing",,,,,52.79,,
+68069977-a004-4a67-8009-eb3fa564e93c,Priceless Marketing Solutions,Reginald,Price,MoviePass Inc,$52.79,8/8/2019,"Aug , 2019",NA,"too small, not disputing",,,,,52.79,,
+babbaefb-9899-47e7-b6c6-54204951ca2b,Brashaw Studios LLC,Michael,Brashaw,WM SUPERCENTER #2479,$52.79,8/172019,"Aug , 2019",8/19/2019,,WON,,,,52.79,yes -1/17/20,
+babbaefb-9899-47e7-b6c6-54204951ca2b,Brashaw Studios LLC,Michael,Brashaw,WAL-MART #1917,$52.79,8/17/2019,"Aug , 2019",8/19/2019,,WON,,,,52.79,yes -1/17/20,
+babbaefb-9899-47e7-b6c6-54204951ca2b,Brashaw Studios LLC,Michael,Brashaw,WAL-MART #1917,$52.79,8/17/2019,"Aug , 2019",8/19/2019,,WON,,,,52.79,yes -1/17/20,
+babbaefb-9899-47e7-b6c6-54204951ca2b,Brashaw Studios LLC,Michael,Brashaw,WAL-MART #5072,$52.79,8/17/2019,"Aug , 2019",8/19/2019,,WON,,,,52.79,yes -1/17/20,
+6d80ab38-bf26-4c04-bcb9-3cba2d0cc02e,Traffic & Trade LLC,Fareed,Rahmaan,Target T-3212,$52.79,8/29/2019,"Aug , 2019",8/30/2019,,,,,,52.79,,
+6d80ab38-bf26-4c04-bcb9-3cba2d0cc02e,Traffic & Trade LLC,Fareed,Rahmaan,Target T-3212,$52.79,8/29/2019,"Aug , 2019",8/30/2019,,,,,,52.79,,
+6d80ab38-bf26-4c04-bcb9-3cba2d0cc02e,Traffic & Trade LLC,Fareed,Rahmaan,Target T-3212,$52.79,8/29/2019,"Aug , 2019",8/30/2019,,,,,,52.79,,
+6d80ab38-bf26-4c04-bcb9-3cba2d0cc02e,Traffic & Trade LLC,Fareed,Rahmaan,Target T-3212,$52.79,8/29/2019,"Aug , 2019",8/30/2019,,,,,,52.79,,
+6d80ab38-bf26-4c04-bcb9-3cba2d0cc02e,Traffic & Trade LLC,Fareed,Rahmaan,Target T-3212,$52.79,8/29/2019,"Aug , 2019",8/30/2019,,,,,,52.79,,
+6d80ab38-bf26-4c04-bcb9-3cba2d0cc02e,Traffic & Trade LLC,Fareed,Rahmaan,Target T-3212,$52.79,8/29/2019,"Aug , 2019",8/30/2019,"too small, not disputing",,,,,52.79,,
+335158e8-adc2-4c58-8d97-e5a2d7018532,Jennifer Dean,Jennifer,Dean,DU (EITC),$52.79,9/2/2019,"Sep , 2019",9/3/2019,Sent to MQ 9/3,,,,,52.79,,
+89940e41-ce2e-49b9-bf73-9ac8a235aaef,Russell Garrett,Russell,Garrett,PILOT_04556,$52.79,8/29/2019,"Aug , 2019",09/04/2019,Sent to MQ 9/4,,,,,52.79,,
+89940e41-ce2e-49b9-bf73-9ac8a235aaef,Russell Garrett,Russell,Garrett,PILOT_04556,$52.79,8/29/2019,"Aug , 2019",09/04/2019,Sent to MQ 9/4,,,,,52.79,,
+b1242465-9983-4da6-ba8c-e094ebe08c6a,April Cordell,April,Cordell,DU (EITC),$52.79,9/1/2019,"Sep , 2019",09/04/2019,Sent to MQ 9/4,Still Pending,,,,52.79,NO,
+b1242465-9983-4da6-ba8c-e094ebe08c6a,April Cordell,April,Cordell,DU (EITC),$52.79,9/1/2019,"Sep , 2019",09/04/2019,Sent to MQ 9/4,Still Pending,,,,52.79,NO,
+b1242465-9983-4da6-ba8c-e094ebe08c6a,April Cordell,April,Cordell,DU (EITC),$52.79,8/31/2019,"Sep , 2019",09/04/2019,Sent to MQ 9/4,"Verified by Visa, wil not dispute. ",,,,52.79,NO,
+b1242465-9983-4da6-ba8c-e094ebe08c6a,April Cordell,April,Cordell,DU (EITC),$52.79,8/31/2019,"Sep , 2019",09/04/2019,Sent to MQ 9/4,"Verified by Visa, wil not dispute. ",,,,52.79,NO,
+b1242465-9983-4da6-ba8c-e094ebe08c6a,April Cordell,April,Cordell,DU (EITC),$52.79,8/31/2019,"Sep , 2019",09/04/2019,Sent to MQ 9/4,"Verified by Visa, wil not dispute. ",,,,52.79,NO,
+b1242465-9983-4da6-ba8c-e094ebe08c6a,April Cordell,April,Cordell,DU (EITC),$52.79,8/31/2019,"Sep , 2019",09/04/2019,Sent to MQ 9/4,"Verified by Visa, wil not dispute. ",,,,52.79,NO,
+b1242465-9983-4da6-ba8c-e094ebe08c6a,April Cordell,April,Cordell,DU (EITC),$52.79,8/31/2019,"Sep , 2019",09/04/2019,Sent to MQ 9/4,"Verified by Visa, wil not dispute. ",,,,52.79,NO,
+b1242465-9983-4da6-ba8c-e094ebe08c6a,April Cordell,April,Cordell,DU (EITC),$52.79,8/31/2019,"Sep , 2019",09/04/2019,Sent to MQ 9/4,"Verified by Visa, wil not dispute. ",,,,52.79,NO,
+b1242465-9983-4da6-ba8c-e094ebe08c6a,April Cordell,April,Cordell,DU (EITC),$52.79,8/31/2019,"Sep , 2019",09/04/2019,Sent to MQ 9/4,"Verified by Visa, wil not dispute. ",,,,52.79,NO,
+b1242465-9983-4da6-ba8c-e094ebe08c6a,April Cordell,April,Cordell,DU (EITC),$52.79,8/31/2019,"Sep , 2019",09/04/2019,Sent to MQ 9/4,"Verified by Visa, wil not dispute. ",,,,52.79,NO,
+b1242465-9983-4da6-ba8c-e094ebe08c6a,April Cordell,April,Cordell,DU (EITC),$52.79,8/31/2019,"Sep , 2019",09/04/2019,Sent to MQ 9/4,"Verified by Visa, wil not dispute. ",,,,52.79,NO,
+b1242465-9983-4da6-ba8c-e094ebe08c6a,April Cordell,April,Cordell,DU (EITC),$52.79,8/31/2019,"Sep , 2019",09/04/2019,Sent to MQ 9/4,"Verified by Visa, wil not dispute. ",,,,52.79,NO,
+b1242465-9983-4da6-ba8c-e094ebe08c6a,April Cordell,April,Cordell,DU (EITC),$52.79,8/31/2019,"Sep , 2019",09/04/2019,Sent to MQ 9/4,"Verified by Visa, wil not dispute. ",,,,52.79,NO,
+b1242465-9983-4da6-ba8c-e094ebe08c6a,April Cordell,April,Cordell,DU (EITC),$52.79,8/31/2019,"Sep , 2019",09/04/2019,Sent to MQ 9/4,"Verified by Visa, wil not dispute. ",,,,52.79,NO,
+b1242465-9983-4da6-ba8c-e094ebe08c6a,April Cordell,April,Cordell,DU (EITC),$52.79,8/31/2019,"Sep , 2019",09/04/2019,Sent to MQ 9/4,"Verified by Visa, wil not dispute. ",,,,52.79,NO,
+b1242465-9983-4da6-ba8c-e094ebe08c6a,April Cordell,April,Cordell,DU (EITC),$52.79,8/31/2019,"Sep , 2019",09/04/2019,Sent to MQ 9/4,"Verified by Visa, wil not dispute. ",,,,52.79,NO,
+b1242465-9983-4da6-ba8c-e094ebe08c6a,April Cordell,April,Cordell,DU (EITC),$52.79,8/31/2019,"Sep , 2019",09/04/2019,Sent to MQ 9/4,"Verified by Visa, wil not dispute. ",,,,52.79,NO,
+b1242465-9983-4da6-ba8c-e094ebe08c6a,April Cordell,April,Cordell,DU (EITC),$52.79,8/17/2019,"Sep , 2019",09/04/2019,Sent to MQ 9/4,"Verified by Visa, wil not dispute. ",,,,52.79,NO,
+b1242465-9983-4da6-ba8c-e094ebe08c6a,April Cordell,April,Cordell,DU (EITC),$52.79,8/17/2019,"Sep , 2019",09/04/2019,Sent to MQ 9/4,"Verified by Visa, wil not dispute. ",,,,52.79,NO,
+b1242465-9983-4da6-ba8c-e094ebe08c6a,April Cordell,April,Cordell,FlyNas,$52.79,8/17/2019,"Sep , 2019",09/04/2019,Sent to MQ 9/4,"Verified by Visa, wil not dispute. ",,,,52.79,NO,
+b1242465-9983-4da6-ba8c-e094ebe08c6a,April Cordell,April,Cordell,FlyNas,$52.79,8/17/2019,"Sep , 2019",09/04/2019,Sent to MQ 9/4,"Verified by Visa, wil not dispute. ",,,,52.79,NO,
+d1128423-e646-4436-b621-08ba465ed7b4,Tyrone Parker,Tyrone,Parker,FlyNas,$52.79,9/9/2019,"Sep , 2019",9/12,Sent to MQ 9/12,"Verified by Visa, wil not dispute. ",,,,52.79,NO,
+d1128423-e646-4436-b621-08ba465ed7b4,Tyrone Parker,Tyrone,Parker,FlyNas,$52.79,9/9/2019,"Sep , 2019",9/12,Sent to MQ 9/12,"Verified by Visa, wil not dispute. ",,,,52.79,NO,
+d1128423-e646-4436-b621-08ba465ed7b4,Tyrone Parker,Tyrone,Parker,TAHALUF AL EMARAT TECH,$52.79,9/9/2019,"Sep , 2019",9/12,Sent to MQ 9/12,"Verified by Visa, wil not dispute. ",,,,52.79,NO,
+d1128423-e646-4436-b621-08ba465ed7b4,Tyrone Parker,Tyrone,Parker,DU (EITC),$52.79,9/9/2019,"Sep , 2019",,Sent to MQ 9/13,,,,,52.79,NO,
+d1128423-e646-4436-b621-08ba465ed7b4,Tyrone Parker,Tyrone,Parker,TAHALUF AL EMARAT TECH,$52.79,9/9/2019,"Sep , 2019",9/12,Sent to MQ 9/12,"Verified by Visa, wil not dispute. ",,,,52.79,NO,
+d1128423-e646-4436-b621-08ba465ed7b4,Tyrone Parker,Tyrone,Parker,TAHALUF AL EMARAT TECH,$52.79,9/9/2019,"Sep , 2019",9/12,Sent to MQ 9/12,"Verified by Visa, wil not dispute. ",,,,52.79,NO,
+d1128423-e646-4436-b621-08ba465ed7b4,Tyrone Parker,Tyrone,Parker,TAHALUF AL EMARAT TECH,$52.79,9/9/2019,"Sep , 2019",9/12,Sent to MQ 9/12,"Verified by Visa, wil not dispute. ",,,,52.79,NO,
+b810d33b-8fda-40c8-9e48-05001e385155,Joshua Letendresse,Joshua,Letendresse,FlyNas,$52.79,9/9/2019,"Sep , 2019",9/12,Sent to MQ 9/12,,,,,52.79,NO,
+b1242465-9983-4da6-ba8c-e094ebe08c6a,April Cordell,April,Cordell,FlyNas,$52.79,9/4/2019,"Sep , 2019",9/12,Sent to MQ 9/12,,,,,52.79,NO,
+b1242465-9983-4da6-ba8c-e094ebe08c6a,April Cordell,April,Cordell,FlyNas,$52.79,9/3/2019,"Sep , 2019",9/12,Sent to MQ 9/12,,,,,52.79,NO,
+74b51f0b-c95e-432b-af70-9b82ca7e4161,Cooper & Cooper LLC,Ma Cristina ,Escanan Cooper,DU (EITC),$52.79,9/10/2019,"Oct , 2019",10/22,Sent to MQ 10/22,"Verified by Visa, will not dispute",,,,52.79,,
+,Lionel Fontaine,Lionel,FOntaine,Grilldaddy,$52.79,9/3/2019,"Nov , 2019",11/4,Sent to MQ 11/4,,,,,52.79,,
+b0315e66-2ee4-40c9-996c-6a202fdb77c9,Web Gourmet,Arkady,Ivenin,Multichoice Africa,$52.79,11/4/2019,"Nov , 2019",11/6,Sent to MQ 11/6,VBV,,,,52.79,,
+b0315e66-2ee4-40c9-996c-6a202fdb77c9,Web Gourmet,Arkady,Ivenin,Multichoice Africa,$52.79,11/2/2019,"Nov , 2019",11/6,Sent to MQ 11/6,VBV,,,,52.79,,
+17471953-d44e-4812-aa79-7ca4dae34ba8,Timeless Treasures Gifts LLC,Kristie,Francis,Wal-mart 5996,$52.79,11/9/2019,"Nov , 2019",11/13,Sent to MQ 11/13,won! credit reversed 1/17,,,,52.79,$989.68,
+17471953-d44e-4812-aa79-7ca4dae34ba8,Timeless Treasures Gifts LLC,Kristie,Francis,Wal-mart 5996,$52.79,11/9/2019,"Nov , 2019",11/13,Sent to MQ 11/13,won! credit reversed 1/17,,,,52.79,"$1,005.56",
+17471953-d44e-4812-aa79-7ca4dae34ba8,Timeless Treasures Gifts LLC,Kristie,Francis,Wal-mart 5996,$52.79,11/9/2019,"Nov , 2019",11/13,Sent to MQ 11/13,won! credit reversed 1/17,,,,52.79,$989.68,
+17471953-d44e-4812-aa79-7ca4dae34ba8,Timeless Treasures Gifts LLC,Kristie,Francis,Wal-mart 5996,$52.79,11/9/2019,"Nov , 2019",11/13,Sent to MQ 11/13,won! credit reversed 1/17,,,,52.79,$510.66,
+17471953-d44e-4812-aa79-7ca4dae34ba8,Timeless Treasures Gifts LLC,Kristie,Francis,WW INTL - STUDIO,$52.79,11/9/2019,"Nov , 2019",,amount cleared to 0. No dispute initiated,,,,,52.79,,
+43345d26-1eae-4b5a-b290-29821f2f269b,Quality Quantities Quickly,Charles,Schlaepfer,FAMILYMART,$52.79,,"Dec , 2019",,Dispute amount less than $25,,,,,52.79,,
+43345d26-1eae-4b5a-b290-29821f2f269b,Quality Quantities Quickly,Charles,Schlaepfer,FAMILYMART,$52.79,,"Dec , 2019",,Dispute amount less than $25,,,,,52.79,,
+43345d26-1eae-4b5a-b290-29821f2f269b,Quality Quantities Quickly,Charles,Schlaepfer,FAMILYMART,$52.79,,"Dec , 2019",12/2/19,Sent to MQ 12/2/19,,,,,52.79,,
+43345d26-1eae-4b5a-b290-29821f2f269b,Quality Quantities Quickly,Charles,Schlaepfer,FAMILYMART,$52.79,,"Nov , 2019",,Dispute amount less than $25,,,,,52.79,,
+43345d26-1eae-4b5a-b290-29821f2f269b,Quality Quantities Quickly,Charles,Schlaepfer,JR EAST SHOPPING CENTER,$52.79,,"Nov , 2019",,Dispute amount less than $25,,,,,52.79,,
+43345d26-1eae-4b5a-b290-29821f2f269b,Quality Quantities Quickly,Charles,Schlaepfer,FAMILYMART,$52.79,,"Nov , 2019",12/2/19,Sent to MQ 12/2/19,,,,,52.79,,
+43345d26-1eae-4b5a-b290-29821f2f269b,Quality Quantities Quickly,Charles,Schlaepfer,FAMILYMART,$52.79,,"Nov , 2019",,Dispute amount less than $25,,,,,52.79,,
+43345d26-1eae-4b5a-b290-29821f2f269b,Quality Quantities Quickly,Charles,Schlaepfer,JR EAST SHOPPING CENTER,$52.79,,"Nov , 2019",,Dispute amount less than $25,,,,,52.79,,
+43345d26-1eae-4b5a-b290-29821f2f269b,Quality Quantities Quickly,Charles,Schlaepfer,TAKASHIMAYA,$52.79,,"Nov , 2019",12/2/19,Sent to MQ 12/2/19,,,,,52.79,,
+04f78c3a-66a8-4626-82e9-42ff5484a92a,Ideia Shop LLC,Elizandro,Moreira,Bed Bath & Beyond,$52.79,11/27/2019,"Dec , 2019",12/2,chip card- VBV- no refund,chip card- VBV- no refund,,,,52.79,,
+04f78c3a-66a8-4626-82e9-42ff5484a92a,Ideia Shop LLC,Elizandro,Moreira,Keurig Green Mountain,$52.79,11/27/2019,"Dec , 2019",,chip card- VBV- no refund,chip card- VBV- no refund,,,,52.79,,
+04f78c3a-66a8-4626-82e9-42ff5484a92a,Ideia Shop LLC,Elizandro,Moreira,Wal-mart- #4365,$52.79,11/26/2019,"Dec , 2019",12/2,chip card- VBV- no refund,chip card- VBV- no refund,,,,52.79,,
+fdc5b474-c2fe-4376-9cc7-bf032adb1f4b,Idyia Corp,Ivan,Chan,WAL-MART #5643,$52.79,11/27/2019,"Dec , 2019",12/2,,Won,,,,52.79,Yes,
+fdc5b474-c2fe-4376-9cc7-bf032adb1f4b,Idyia Corp,Ivan,Chan,WAL-MART #3650,$52.79,11/27/2019,"Dec , 2019",12/2,,Won,,,,52.79,Yes,
+fdc5b474-c2fe-4376-9cc7-bf032adb1f4b,Idyia Corp,Ivan,Chan,WAL-MART #3650,$52.79,11/27/2019,"Dec , 2019",12/2,,Won,,,,52.79,Yes,
+fdc5b474-c2fe-4376-9cc7-bf032adb1f4b,Idyia Corp,Ivan,Chan,WAL-MART #3650,$52.79,11/27/2019,"Dec , 2019",12/2,,Won,,,,52.79,Yes,
+fdc5b474-c2fe-4376-9cc7-bf032adb1f4b,Idyia Corp,Ivan,Chan,WAL-MART #3650,$52.79,11/27/2019,"Dec , 2019",12/2,,Won,,,,52.79,Yes,
+e7cbd2db-eda7-455c-801b-df111bd60737,Pure Vitamins & Supplements,Hilda,Melgar,Boohoo.com,$52.79,12/4/2019,"Dec , 2019",12/5,Disputed 12/4,VBV no credit given,,,,52.79,,
+e7cbd2db-eda7-455c-801b-df111bd60737,Pure Vitamins & Supplements,Hilda,Melgar,Boohoo.com,$52.79,12/4/2019,"Dec , 2019",12/5,Disputed 12/4,VBV no credit given,,,,52.79,,
+e7cbd2db-eda7-455c-801b-df111bd60737,Pure Vitamins & Supplements,Hilda,Melgar,Boohoo.com,$52.79,12/4/2019,"Dec , 2019",12/5,Disputed 12/4,VBV no credit given,,,,52.79,,
+e7cbd2db-eda7-455c-801b-df111bd60737,Pure Vitamins & Supplements,Hilda,Melgar,Boohoo.com,$52.79,12/4/2019,"Dec , 2019",12/5,Disputed 12/4,VBV no credit given,,,,52.79,,
+e7cbd2db-eda7-455c-801b-df111bd60737,Pure Vitamins & Supplements,Hilda,Melgar,OBB*536000000046429630 OE,$52.79,12/4/2019,"Dec , 2019",0,too small did not dispute,,,,,52.79,,
+e7cbd2db-eda7-455c-801b-df111bd60737,Pure Vitamins & Supplements,Hilda,Melgar,DB Internet,$52.79,12/4/2019,"Dec , 2019",12/5,Disputed 12/4,MQ stated dispute initiated,,,,52.79,,
+02450859-4907-41c4-866c-52c723dc237c,Lionel Fontaine,Lionel,Fontaine,Hardwareonlinestore.com,$52.79,11/13/2019,"Dec , 2019",12/10,Disputed 12/10,,,,,52.79,,
+d1128423-e646-4436-b621-08ba465ed7b4,Tyrone Parker,Tyrone,Parker,fnac.com,$52.79,1/3/2020,"Jan , 2020",01/07/20,,MQ stated dispute initiated,,,,52.79,,
+d1128423-e646-4436-b621-08ba465ed7b4,Tyrone Parker,Tyrone,Parker,NEOPOST FRANCE,$52.79,12/27/2019,"Jan , 2020",01/07/20,,Too small,,,,52.79,,
+41cd3675-9c4e-402c-8994-a6b25f8351c2,Lisa Marie Waring,Lisa Marie,Waring,ZEN ARBITRAGE MONTHLY,$52.79,11/16/2019,"Jan , 2020",01/2020,,Won,,,,52.79,Yes,
+41cd3675-9c4e-402c-8994-a6b25f8351c2,Lisa Marie Waring,Lisa Marie,Waring,ZEN ARBITRAGE MONTHLY,$52.79,12/12/2019,"Jan , 2020",01/2020,,no,,,,52.79,no,
+41b336dd-99ef-45cd-8c56-b68796ec87a3,Gabriela Podarelu,Gabriela,,WALMART.COM 8009666546,$52.79,1/12/2020,"Jan , 2020",1/13/2020,,won,,,,52.79,Yes,
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,WAL-MART #2495,$52.79,1/26/2020,"Jan , 2020",1/27/20,,Lost,,,,52.79,No,
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,WAL-MART #2495,$52.79,1/26/2020,"Jan , 2020",1/27/20,,Lost,,,,52.79,No,
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,WAL-MART #2495,$52.79,1/26/2020,"Jan , 2020",1/27/20,,Lost,,,,52.79,No,
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,WAL-MART #2998,$52.79,1/26/2020,"Jan , 2020",1/27/20,,Lost,,,,52.79,No,
+4a564a3e-3335-463c-b1d7-a913603097b0,Adam Heck,Adam,Heck,WAL-MART #1832,$52.79,1/31/2020,"Jan , 2020",1/31,,Won,,,,52.79,yes,
+4a564a3e-3335-463c-b1d7-a913603097b0,Adam Heck,Adam,Heck,WAL-MART #1747,$52.79,1/30/2020,"Jan , 2020",1/31,,Won,,,,52.79,yes,
+4a564a3e-3335-463c-b1d7-a913603097b0,Adam Heck,Adam,Heck,WAL-MART #1747,$52.79,1/30/2020,"Jan , 2020",1/31,,Won,,,,52.79,yes,
+125d29e3-0625-4e94-bc6d-119db4e4a13a,Michael D Inc,David,Lyznick,SAMSCLUB #8261,$52.79,2/11/2020,"Feb , 2020",2/12/20,,Won,,,,52.79,yes,
+125d29e3-0625-4e94-bc6d-119db4e4a13a,Michael D Inc,David,Lyznick,SAMSCLUB #8261,$52.79,2/11/2020,"Feb , 2020",2/12/20,,Won,,,,52.79,yes,
+88033564-27f6-4bb3-8ee4-3d3771499928,Promotional Marketing Associates Inc,James,Plante,Rebtel,$52.79,2/25/2020,"Feb , 2020",2/27/20,Dispute sent to MQ,Won,,,,52.79,yes,
+88033564-27f6-4bb3-8ee4-3d3771499928,Promotional Marketing Associates Inc,James,Plante,KFC D011002,$52.79,2/25/2020,"Feb , 2020",2/27/20,Dispute sent to MQ,Won,,,,52.79,yes,
+88033564-27f6-4bb3-8ee4-3d3771499928,Promotional Marketing Associates Inc,James,Plante,Google *Youtube Music,$52.79,2/23/2020,"Feb , 2020",NA,too small,Won,,,,52.79,yes,
+202e27b4-3628-4ab9-8496-bd27a9709cca,Justin Stickman,Justin,Stickman,TARGET T-3269,$52.79,2/26/2020,"Feb , 2020",2/27/20,Dispute sent to MQ,Lost,,,,52.79,,
+202e27b4-3628-4ab9-8496-bd27a9709cca,Justin Stickman,Justin,Stickman,TARGET T-3269,$52.79,2/26/2020,"Feb , 2020",2/27/20,Dispute sent to MQ,Lost,,,,52.79,,
+202e27b4-3628-4ab9-8496-bd27a9709cca,Justin Stickman,Justin,Stickman,TARGET T-3269,$52.79,2/26/2020,"Feb , 2020",2/27/20,Dispute sent to MQ,Lost,,,,52.79,,
+202e27b4-3628-4ab9-8496-bd27a9709cca,Justin Stickman,Justin,Stickman,Soles-Snipes 6116,$52.79,2/26/2020,"Feb , 2020",2/27/20,Dispute sent to MQ,Lost,,,,52.79,,
+202e27b4-3628-4ab9-8496-bd27a9709cca,Justin Stickman,Justin,Stickman,Walgreens #13162,$52.79,2/26/2020,"Feb , 2020",2/27/20,too small,,,,,52.79,,
+38db407c-e8ed-4466-b9cf-4bd3ecbbef27,FB Trading LLC,Federico,Brocher,GAELSONG,$52.79,3/2/2020,"Mar , 2020",3/4/20,,Lost,,,,52.79,NO,
+6b2da31e-a54f-4807-92d3-a811e7b6a4c7,ricky soumphont,ricky,soumphont,PLAYSTATION NETWORK,$52.79,3/9/2020,"Mar , 2020",3/10,,lost,,,,52.79,NO,
+6b2da31e-a54f-4807-92d3-a811e7b6a4c7,ricky soumphont,ricky,soumphont,SWA INFLIGHT WIFI,$52.79,3/8/2020,"Mar , 2020",3/10,,lost,,,,52.79,NO,
+6b2da31e-a54f-4807-92d3-a811e7b6a4c7,ricky soumphont,ricky,soumphont,MSY 3508A Scoreboard T-B,$52.79,3/8/2020,"Mar , 2020",3/10,,Won,,,,52.79,yes,
+6b2da31e-a54f-4807-92d3-a811e7b6a4c7,ricky soumphont,ricky,soumphont,WAL-MART #0553,$52.79,3/8/2020,"Mar , 2020",3/10,,Won,,,,52.79,yes,
+6b2da31e-a54f-4807-92d3-a811e7b6a4c7,ricky soumphont,ricky,soumphont,ALLSTATE *PAYMENT,$52.79,3/7/2020,"Mar , 2020",3/10,,Won,,,,52.79,yes,
+6b2da31e-a54f-4807-92d3-a811e7b6a4c7,ricky soumphont,ricky,soumphont,WINGATE BY WYNDHAM,$52.79,3/7/2020,"Mar , 2020",3/10,,Won,,,,52.79,yes,
+6b2da31e-a54f-4807-92d3-a811e7b6a4c7,ricky soumphont,ricky,soumphont,Lyft *Pending,$52.79,3/7/2020,"Mar , 2020",3/10,,lost,,,,52.79,NO,
+6b2da31e-a54f-4807-92d3-a811e7b6a4c7,ricky soumphont,ricky,soumphont,TRACFONE *AIRTIME,$52.79,3/6/2020,"Mar , 2020",3/10,,won,,,,52.79,yes,
+6b2da31e-a54f-4807-92d3-a811e7b6a4c7,ricky soumphont,ricky,soumphont,WINGATE BY WYNDHAM,$52.79,3/6/2020,"Mar , 2020",3/10,,Won,,,,52.79,yes,
+6b2da31e-a54f-4807-92d3-a811e7b6a4c7,ricky soumphont,ricky,soumphont,WM SUPERCENTER #553,$52.79,3/6/2020,"Mar , 2020",3/10,,Won,,,,52.79,yes,
+6b2da31e-a54f-4807-92d3-a811e7b6a4c7,ricky soumphont,ricky,soumphont,WM SUPERCENTER #553,$52.79,3/6/2020,"Mar , 2020",3/10,,Won,,,,52.79,yes,
+6b2da31e-a54f-4807-92d3-a811e7b6a4c7,ricky soumphont,ricky,soumphont,WM SUPERCENTER #553,$52.79,3/6/2020,"Mar , 2020",3/10,,Won,,,,52.79,yes,
+6b2da31e-a54f-4807-92d3-a811e7b6a4c7,ricky soumphont,ricky,soumphont,SQ *ABC CAB/TRACE,$52.79,3/6/2020,"Mar , 2020",3/10,,lost,,,,52.79,NO,
+6b2da31e-a54f-4807-92d3-a811e7b6a4c7,ricky soumphont,ricky,soumphont,BEAU RIVAGE TERRACE CA,$52.79,3/6/2020,"Mar , 2020",3/10,,lost,,,,52.79,NO,
+6b2da31e-a54f-4807-92d3-a811e7b6a4c7,ricky soumphont,ricky,soumphont,WM SUPERCENTER #2715,$52.79,3/5/2020,"Mar , 2020",3/10,,won,,,,52.79,yes,
+6b2da31e-a54f-4807-92d3-a811e7b6a4c7,ricky soumphont,ricky,soumphont,WM SUPERCENTER #954,$52.79,3/4/2020,"Mar , 2020",3/10,,won,,,,52.79,yes,
+6b2da31e-a54f-4807-92d3-a811e7b6a4c7,ricky soumphont,ricky,soumphont,TST* THE STUFFED,$52.79,3/4/2020,"Mar , 2020",3/10,,lost,,,,52.79,NO,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,No Bull Co,James,Iacono,Maison St Charles Hotel a,$52.79,3/5/2020,"Mar , 2020",3/12,,,,,,52.79,,
+aa21005c-8b57-4885-ae0f-45fc3fce502c,RODNEY Waller,RODNEY,Waller,JR EAST,$52.79,3/6/20,"Mar , 2020",3/9,Declined for VEPS,,,,,52.79,,
+aa21005c-8b57-4885-ae0f-45fc3fce502c,RODNEY Waller,RODNEY,Waller,JR EAST,$52.79,3/6/20,"Mar , 2020",3/9,Declined for VEPS,,,,,52.79,,
+7ef46396-6fa2-49f8-ac44-5e0cdd7d7cb1,Daniel Hansen,Daniel,Hansen,NEOPOST FRANCE,$52.79,3/23/2020,"Mar , 2020",NA,"less than $25, just gave fee credit",,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,No Bull Co,James,Iacono,SAMS CLUB #4735,$52.79,3/21/2020,"Mar , 2020",3/25,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,No Bull Co,James,Iacono,SP * BURGER MOTORSPORT,$52.79,3/21/2020,"Mar , 2020",3/25,,,,,,52.79,,
+51d342c5-9e14-4c1f-8948-078ea633bca4,Melissa Luplow,Melissa,Luplow,TOKYU DEPT STORE TOOYOKO,$52.79,3/20/2020,"Mar , 2020",3.24,,,,,,52.79,,
+51d342c5-9e14-4c1f-8948-078ea633bca4,Melissa Luplow,Melissa,Luplow,FAMILYMART,$52.79,3/22/2020,"Mar , 2020",,,,,,,52.79,,
+d776a234-99b0-459f-ac70-c4c1745742ad,Glowing 4 Beauty ,Suzzette,Gonzalez,HAKKUDORAGGU ISHIKAWACHOT,$52.79,3/22/2020,"Mar , 2020",3/30/20,Declined for VEPS,,,,,52.79,,
+d776a234-99b0-459f-ac70-c4c1745742ad,Glowing 4 Beauty ,Suzzette,Gonzalez,HAKKUDORAGGU ISHIKAWACHOT,$52.79,3/22/2020,"Mar , 2020",3/30/20,Declined for VEPS,,,,,52.79,,
+570c1e13-2671-431e-95e5-6001d38be2b0,Celia Gomez,Celia,Gomez,FTD.Com,$52.79,4/22/2020,"Apr , 2020",4/22/20,,,,,,52.79,,
+570c1e13-2671-431e-95e5-6001d38be2b0,Celia Gomez,Celia,Gomez,FTD.Com,$52.79,4/17/2020,"Apr , 2020",4/22/20,,,,,,52.79,,
+08838d12-52df-4d06-a2b0-57e3f82afaa9,Dealsmart LLC,Tirtza,Knopfler,I-DRIVE LIQUORS,$52.79,5/4/2020,"May , 2020",too small,,,,,,52.79,,
+08838d12-52df-4d06-a2b0-57e3f82afaa9,Dealsmart LLC,Tirtza,Knopfler,FAMILY DOLLAR #6006,$52.79,5/4/2020,"May , 2020",5/5/2020,Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read.,,,,,52.79,,
+08838d12-52df-4d06-a2b0-57e3f82afaa9,Dealsmart LLC,Tirtza,Knopfler,TARGET T-1918,$52.79,5/4/2020,"May , 2020",5/5/2020,Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read.,,,,,52.79,,
+08838d12-52df-4d06-a2b0-57e3f82afaa9,Dealsmart LLC,Tirtza,Knopfler,TARGET T-1918,$52.79,5/4/2020,"May , 2020",5/5/2020,Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read.,,,,,52.79,,
+08838d12-52df-4d06-a2b0-57e3f82afaa9,Dealsmart LLC,Tirtza,Knopfler,TARGET T-1918,$52.79,5/4/2020,"May , 2020",5/5/2020,Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read.,,,,,52.79,,
+08838d12-52df-4d06-a2b0-57e3f82afaa9,Dealsmart LLC,Tirtza,Knopfler,TARGET T-1918,$52.79,5/4/2020,"May , 2020",5/5/2020,Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read.,,,,,52.79,,
+08838d12-52df-4d06-a2b0-57e3f82afaa9,Dealsmart LLC,Tirtza,Knopfler,TARGET T-1918,$52.79,5/4/2020,"May , 2020",5/5/2020,Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read.,,,,,52.79,,
+08838d12-52df-4d06-a2b0-57e3f82afaa9,Dealsmart LLC,Tirtza,Knopfler,TARGET T-1918,$52.79,5/4/2020,"May , 2020",5/5/2020,Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read.,,,,,52.79,,
+08838d12-52df-4d06-a2b0-57e3f82afaa9,Dealsmart LLC,Tirtza,Knopfler,FINISH LINE #072,$52.79,5/4/2020,"May , 2020",5/5/2020,Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read.,,,,,52.79,,
+08838d12-52df-4d06-a2b0-57e3f82afaa9,Dealsmart LLC,Tirtza,Knopfler,FINISH LINE #072,$52.79,5/4/2020,"May , 2020",5/5/2020,Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read.,,,,,52.79,,
+08838d12-52df-4d06-a2b0-57e3f82afaa9,Dealsmart LLC,Tirtza,Knopfler,The Copper Closet - Orlan,$52.79,5/4/2020,"May , 2020",5/5/2020,Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read.,,,,,52.79,,
+08838d12-52df-4d06-a2b0-57e3f82afaa9,Dealsmart LLC,Tirtza,Knopfler,AMZN Mktp US,$52.79,4/27/2020,"May , 2020",too small,,,,,,52.79,,
+08838d12-52df-4d06-a2b0-57e3f82afaa9,Dealsmart LLC,Tirtza,Knopfler,COSTCO ONLINE RX,$52.79,4/21/2020,"May , 2020",too small,,,,,,52.79,,
+08838d12-52df-4d06-a2b0-57e3f82afaa9,Dealsmart LLC,Tirtza,Knopfler,COSTCO ONLINE RX,$52.79,4/21/2020,"May , 2020",too small,,,,,,52.79,,
+08838d12-52df-4d06-a2b0-57e3f82afaa9,Dealsmart LLC,Tirtza,Knopfler,COSTCO ONLINE RX,$52.79,4/21/2020,"May , 2020",too small,,,,,,52.79,,
+08838d12-52df-4d06-a2b0-57e3f82afaa9,Dealsmart LLC,Tirtza,Knopfler,COSTCO ONLINE RX,$52.79,4/21/2020,"May , 2020",too small,,,,,,52.79,,
+08838d12-52df-4d06-a2b0-57e3f82afaa9,Dealsmart LLC,Tirtza,Knopfler,COSTCO ONLINE RX,$52.79,4/19/2020,"May , 2020",5/5/2020,dispute initiated,,,,,52.79,,
+08838d12-52df-4d06-a2b0-57e3f82afaa9,Dealsmart LLC,Tirtza,Knopfler,Amazon Prime,$52.79,4/19/2020,"May , 2020",too small,,,,,,52.79,,
+c8ecc652-401c-47e5-a2ea-0cd273d1c5bc,RGI Supply llc,Annette,Chavez,"MYSMARTBLINDS, INC",$52.79,5/5/2020,"May , 2020",5/5/2020,,,,,,52.79,,
+08838d12-52df-4d06-a2b0-57e3f82afaa9,Dealsmart LLC,Tirtza,Knopfler,Designer Eyes R008,$52.79,5/4/2020,"May , 2020",5/6/2020,Dispute is invalid under Dispute Condition 10.3 as the transaction was electronically read.,,,,,52.79,,
+08838d12-52df-4d06-a2b0-57e3f82afaa9,Dealsmart LLC,Tirtza,Knopfler,PAYPAL *TONGTAKEJIY,$52.79,5/4/2020,"May , 2020",too small,,,,,,52.79,,
+08838d12-52df-4d06-a2b0-57e3f82afaa9,Dealsmart LLC,Tirtza,Knopfler,Amazon Prime,$52.79,5/5/2020,"May , 2020",too small,,,,,,52.79,,
+98563d39-0d02-43bd-b6ce-d3e613d9bd68,euro supplies llc,euro,supplies,HSA*HSAroboexpert.deMelle,$52.79,5/19/2020,"May , 2020",5/20,VBV,,,,,52.79,,
+98563d39-0d02-43bd-b6ce-d3e613d9bd68,euro supplies llc,euro,supplies,HSA*HSAroboexpert.deMelle,$52.79,5/19/2020,"May , 2020",5/20,VBV,,,,,52.79,,
+98563d39-0d02-43bd-b6ce-d3e613d9bd68,euro supplies llc,euro,supplies,COLISEXPAT,$52.79,5/19/2020,"May , 2020",5/20,VBV,,,,,52.79,,TK
+e60f518e-b406-4adc-9388-94c262f183b7,Steve Sinclair,Steve,Sinclair,INTERNETBS.NET,$52.79,5/19/2020,"May , 2020",5/20,,,,,,52.79,,TK
+e60f518e-b406-4adc-9388-94c262f183b7,Steve Sinclair,Steve,Sinclair,frette,$52.79,5/19/2020,"May , 2020",5/20,,,,,,52.79,yes,TK
+e60f518e-b406-4adc-9388-94c262f183b7,Steve Sinclair,Steve,Sinclair,frette,$52.79,5/19/2020,"May , 2020",5/20,,,,,,52.79,yes,TK
+e60f518e-b406-4adc-9388-94c262f183b7,Steve Sinclair,Steve,Sinclair,Media Market,$52.79,5/19/2020,"May , 2020",5/20,,,,,,52.79,N,TK
+fc9c4953-ceab-47b1-9c25-9092c217318b,AnnaMarie Woodell,AnnaMarie,Woodell,TARGET T-1197,$52.79,5/19/2020,"May , 2020",,,,,,,52.79,yes,TK
+fc9c4953-ceab-47b1-9c25-9092c217318b,AnnaMarie Woodell,AnnaMarie,Woodell,TARGET T-1197,$52.79,5/19/2020,"May , 2020",,,,,,,52.79,N,TK
+fc9c4953-ceab-47b1-9c25-9092c217318b,AnnaMarie Woodell,AnnaMarie,Woodell,TARGET T-1197,$52.79,5/19/2020,"May , 2020",,,,,,,52.79,N,TK
+fc9c4953-ceab-47b1-9c25-9092c217318b,AnnaMarie Woodell,AnnaMarie,Woodell,TARGET T-1197,$52.79,5/19/2020,"May , 2020",,,,,,,52.79,N,TK
+fc9c4953-ceab-47b1-9c25-9092c217318b,AnnaMarie Woodell,AnnaMarie,Woodell,TARGET T-1197,$52.79,5/19/2020,"May , 2020",,,,,,,52.79,N,TK
+fc9c4953-ceab-47b1-9c25-9092c217318b,AnnaMarie Woodell,AnnaMarie,Woodell,TARGET T-1197,$52.79,5/19/2020,"May , 2020",,,,,,,52.79,N,TK
+fc9c4953-ceab-47b1-9c25-9092c217318b,AnnaMarie Woodell,AnnaMarie,Woodell,TARGET T-2171,$52.79,5/19/2020,"May , 2020",,,,,,,52.79,N,TK
+fc9c4953-ceab-47b1-9c25-9092c217318b,AnnaMarie Woodell,AnnaMarie,Woodell,TARGET T-2171,$52.79,5/19/2020,"May , 2020",,,,,,,52.79,N,TK
+fc9c4953-ceab-47b1-9c25-9092c217318b,AnnaMarie Woodell,AnnaMarie,Woodell,TARGET T-2171,$52.79,5/19/2020,"May , 2020",,,,,,,52.79,N,TK
+fc9c4953-ceab-47b1-9c25-9092c217318b,AnnaMarie Woodell,AnnaMarie,Woodell,HOMEGOODS #1037,$52.79,5/19/2020,"May , 2020",,,,,,,52.79,N,TK
+b810d33b-8fda-40c8-9e48-05001e385155,Joshua LATENDRESSE,Joshua,LATENDRESSE,METROPCS IVR,$52.79,5/27/2020,"May , 2020",5/28/2020,,,,,,52.79,Yes,MN
+b810d33b-8fda-40c8-9e48-05001e385155,Joshua LATENDRESSE,Joshua,LATENDRESSE,BOOST MOBILE,$52.79,5/24/2020,"May , 2020",5/28/2020,,,,,,52.79,Yes,MN
+b810d33b-8fda-40c8-9e48-05001e385155,Joshua LATENDRESSE,Joshua,LATENDRESSE,PIZZA HUT #27184,$52.79,5/24/2020,"May , 2020",5/28/2020,,,,,,52.79,N,MN
+b810d33b-8fda-40c8-9e48-05001e385155,Joshua LATENDRESSE,Joshua,LATENDRESSE,FOOTLOCKER,$52.79,5/20/2020,"May , 2020",5/28/2020,,,,,,52.79,N,MN
+b810d33b-8fda-40c8-9e48-05001e385155,Joshua LATENDRESSE,Joshua,LATENDRESSE,"BT *WAITR, INC.CF49XR",$52.79,5/17/2020,"May , 2020",5/28/2020,,,,,,52.79,N,MN
+b810d33b-8fda-40c8-9e48-05001e385155,Joshua LATENDRESSE,Joshua,LATENDRESSE,DOMINO'S PIZZA 6,$52.79,5/17/2020,"May , 2020",5/28/2020,,,,,,52.79,Yes,MN
+b810d33b-8fda-40c8-9e48-05001e385155,Joshua LATENDRESSE,Joshua,LATENDRESSE,PIZZA HUT #27184,$52.79,5/17/2020,"May , 2020",-,too small,,,,,52.79,N,MN
+b810d33b-8fda-40c8-9e48-05001e385155,Joshua LATENDRESSE,Joshua,LATENDRESSE,DOORDASH,$52.79,5/14/2020,"May , 2020",5/28/2020,,,,,,52.79,N,MN
+b810d33b-8fda-40c8-9e48-05001e385155,Joshua LATENDRESSE,Joshua,LATENDRESSE,PAPA JOHN'S 5056,$52.79,4/6/2020,"May , 2020",-,too small,,,,,52.79,N,MN
+22ab834f-67bb-47a2-9b6c-045279bba855,Nonstop Ciclismo Inc,Keith,Neu,PINK COCONUT BOUTIQUE,$52.79,4/8/2020,"Apr , 2020",4/8/20,,,,,,52.79,Yes,MT
+451cacd2-4bb6-4864-bcae-0c2fc8e66afe,Rachel Hunt,Rachel,Hunt,MICROSOFT*OFFICE 365 HOME,$52.79,4/28/2020,"Jun , 2020",6/8/2020,,,,,,52.79,,
+451cacd2-4bb6-4864-bcae-0c2fc8e66afe,Rachel Hunt,Rachel,Hunt,GOOGLE *Smart Media Ap,$52.79,4/25/2020,"Jun , 2020",6/8/2020,,,,,,52.79,,
+07ca4874-fd64-4d69-804f-1b799611d178,C.Herr & Herr,C.Herr,Herr,VERIZON*TELESALE X5600,$52.79,6/3/2020,"Jun , 2020",6/8/20,,"Verified by visa, dispute declined. ",,,,52.79,,MT
+6b2da31e-a54f-4807-92d3-a811e7b6a4c7,ricky soumphont,ricky,soumphont,FRONTELD,$52.79,6/6/2020,"Jun , 2020",6/9/2020,,,,,,52.79,,
+6b2da31e-a54f-4807-92d3-a811e7b6a4c7,ricky soumphont,ricky,soumphont,NAWSD STORE,$52.79,6/6/2020,"Jun , 2020",6/9/2020,,,,,,52.79,,
+6b2da31e-a54f-4807-92d3-a811e7b6a4c7,ricky soumphont,ricky,soumphont,FRONTELD,$52.79,6/6/2020,"Jun , 2020",6/9/2020,,,,,,52.79,,
+6b2da31e-a54f-4807-92d3-a811e7b6a4c7,ricky soumphont,ricky,soumphont,FRONTELD,$52.79,6/6/2020,"Jun , 2020",6/9/2020,,,,,,52.79,,
+45fb318b-4658-4c6e-8643-34e96cabe473,Pinnacle Vortex LLC,ANTHONY,BLACKBURN,DICKS SPORTING GOODS1110,$52.79,7/1/2020,"Jul , 2020",07/02/2020,,,,,,52.79,,
+45fb318b-4658-4c6e-8643-34e96cabe473,Pinnacle Vortex LLC,ANTHONY,BLACKBURN,DICKS SPORTING GOODS1110,$52.79,7/1/2020,"Jul , 2020",07/02/2020,,,,,,52.79,,
+45fb318b-4658-4c6e-8643-34e96cabe473,Pinnacle Vortex LLC,ANTHONY,BLACKBURN,DICKS SPORTING GOODS1110,$52.79,7/1/2020,"Jul , 2020",07/02/2020,,,,,,52.79,,
+45fb318b-4658-4c6e-8643-34e96cabe473,Pinnacle Vortex LLC,ANTHONY,BLACKBURN,NORDSTROM #0629,$52.79,7/1/2020,"Jul , 2020",07/02/2020,,,,,,52.79,,
+45fb318b-4658-4c6e-8643-34e96cabe473,Pinnacle Vortex LLC,ANTHONY,BLACKBURN,NORDSTROM #0629,$52.79,7/1/2020,"Jul , 2020",07/02/2020,,,,,,52.79,,
+45fb318b-4658-4c6e-8643-34e96cabe473,Pinnacle Vortex LLC,ANTHONY,BLACKBURN,NORDSTROM #0629,$52.79,7/1/2020,"Jul , 2020",07/02/2020,,,,,,52.79,,
+45fb318b-4658-4c6e-8643-34e96cabe473,Pinnacle Vortex LLC,ANTHONY,BLACKBURN,NORDSTROM #0629,$52.79,7/1/2020,"Jul , 2020",07/02/2020,,,,,,52.79,,
+45fb318b-4658-4c6e-8643-34e96cabe473,Pinnacle Vortex LLC,ANTHONY,BLACKBURN,NORDSTROM #0629,$52.79,7/1/2020,"Jul , 2020",07/02/2020,,,,,,52.79,,
+45fb318b-4658-4c6e-8643-34e96cabe473,Pinnacle Vortex LLC,ANTHONY,BLACKBURN,NORDSTROM #0629,$52.79,7/1/2020,"Jul , 2020",07/02/2020,,,,,,52.79,,
+45fb318b-4658-4c6e-8643-34e96cabe473,Pinnacle Vortex LLC,ANTHONY,BLACKBURN,14011 WALNUT STREET,$52.79,7/1/2020,"Jul , 2020",07/02/2020,,,,,,52.79,,
+45fb318b-4658-4c6e-8643-34e96cabe473,Pinnacle Vortex LLC,ANTHONY,BLACKBURN,TARGET STORE- T3206,$52.79,7/1/2020,"Jul , 2020",07/02/2020,,,,,,52.79,,
+45fb318b-4658-4c6e-8643-34e96cabe473,Pinnacle Vortex LLC,ANTHONY,BLACKBURN,TARGET STORE- T3206,$52.79,7/1/2020,"Jul , 2020",07/02/2020,,,,,,52.79,,
+45fb318b-4658-4c6e-8643-34e96cabe473,Pinnacle Vortex LLC,ANTHONY,BLACKBURN,TARGET STORE- T3206,$52.79,7/1/2020,"Jul , 2020",07/02/2020,,,,,,52.79,,
+45fb318b-4658-4c6e-8643-34e96cabe473,Pinnacle Vortex LLC,ANTHONY,BLACKBURN,SAKS OFF 5TH 759,$52.79,7/1/2020,"Jul , 2020",7/6/2020,,,,,,52.79,,
+45fb318b-4658-4c6e-8643-34e96cabe473,Pinnacle Vortex LLC,ANTHONY,BLACKBURN,OVERTIME BY DICKS,$52.79,7/1/2020,"Jul , 2020",7/6/2020,,,,,,52.79,,
+45fb318b-4658-4c6e-8643-34e96cabe473,Pinnacle Vortex LLC,ANTHONY,BLACKBURN,OVERTIME BY DICKS,$52.79,7/1/2020,"Jul , 2020",7/6/2020,,,,,,52.79,,
+438a8634-3467-46fd-b477-30b8407a187e,Michel Garcia,Michel,Garcia,COLISEXPAT,$52.79,5/25/2020,"Jul , 2020",07/17/20,,,,,,52.79,,
+e13c0373-d4cf-49ca-8ee5-4a62a3420955,RNR services and Investments Inc,Raymond,Neal,STOP & SHOP 0497,$52.79,7/18/2020,"Jul , 2020",7/20/2020,,,,,,52.79,,
+e13c0373-d4cf-49ca-8ee5-4a62a3420955,RNR services and Investments Inc,Raymond,Neal,STOP & SHOP 0497,$52.79,7/18/2020,"Jul , 2020",7/20/2020,,,,,,52.79,,
+e13c0373-d4cf-49ca-8ee5-4a62a3420955,RNR services and Investments Inc,Raymond,Neal,HUDSON SUPER LIQUOR,$52.79,7/18/2020,"Jul , 2020",7/20/2020,,,,,,52.79,,
+e13c0373-d4cf-49ca-8ee5-4a62a3420955,RNR services and Investments Inc,Raymond,Neal,STOP & SHOP 0489,$52.79,7/18/2020,"Jul , 2020",7/20/2020,,,,,,52.79,,
+e13c0373-d4cf-49ca-8ee5-4a62a3420955,RNR services and Investments Inc,Raymond,Neal,SHAWS 3087,$52.79,7/18/2020,"Jul , 2020",7/20/2020,,,,,,52.79,,
+e13c0373-d4cf-49ca-8ee5-4a62a3420955,RNR services and Investments Inc,Raymond,Neal,BEST BUY 8466,$52.79,7/18/2020,"Jul , 2020",7/20/2020,,,,,,52.79,,
+e13c0373-d4cf-49ca-8ee5-4a62a3420955,RNR services and Investments Inc,Raymond,Neal,JCPENNEY 2708,$52.79,7/18/2020,"Jul , 2020",7/20/2020,,,,,,52.79,,
+e13c0373-d4cf-49ca-8ee5-4a62a3420955,RNR services and Investments Inc,Raymond,Neal,JCPENNEY 2708,$52.79,7/18/2020,"Jul , 2020",7/20/2020,,,,,,52.79,,
+e13c0373-d4cf-49ca-8ee5-4a62a3420955,RNR services and Investments Inc,Raymond,Neal,CUSTOM TEEZ SOLOMON POND,$52.79,7/18/2020,"Jul , 2020",7/20/2020,,,,,,52.79,,
+e13c0373-d4cf-49ca-8ee5-4a62a3420955,RNR services and Investments Inc,Raymond,Neal,SQ *FANZONE,$52.79,7/18/2020,"Jul , 2020",7/20/2020,,,,,,52.79,,
+e13c0373-d4cf-49ca-8ee5-4a62a3420955,RNR services and Investments Inc,Raymond,Neal,MACYS SOLOMON POND,$52.79,7/18/2020,"Jul , 2020",7/20/2020,,,,,,52.79,3622.92,MN
+e13c0373-d4cf-49ca-8ee5-4a62a3420955,RNR services and Investments Inc,Raymond,Neal,MACYS SOLOMON POND,$52.79,7/18/2020,"Jul , 2020",7/20/2020,,,,,,52.79,,
+e13c0373-d4cf-49ca-8ee5-4a62a3420955,RNR services and Investments Inc,Raymond,Neal,MACYS SOLOMON POND,$52.79,7/18/2020,"Jul , 2020",7/20/2020,,,,,,52.79,,
+484ffb15-b2e1-459f-9bb3-52af46f34620,Steven strittmatter,Steven,strittmatter,Toklat Originals,$52.79,7/24/2020,"Jul , 2020",7/28/2020,,,,,,52.79,,
+d94bc015-1cb9-40b1-9d81-58a05696be90,Bargain-Garden LLC,Aaron,Miller,PBCSSUPPORTONLINE-1.COM,$52.79,8/3/2020,"Aug , 2020",08/04/2020,,,,,,52.79,,
+d94bc015-1cb9-40b1-9d81-58a05696be90,Bargain-Garden LLC,Aaron,Miller,PROSPERITY TRAINING TECHN,$52.79,7/3/2020,"Aug , 2020",08/04/2020,,,,,,52.79,,
+bc136f28-36e9-4156-be01-c3616c718ffd,Crystal Cleaning & Maintenance Services Inc.,Arjana,Bresa,Amazon.com,$52.79,7/10/2020,"Aug , 2020",8/10/2020,,,,,,52.79,,
+5e02237f-d008-4777-b15b-5c3fdbf68c5a,Kevin Rocco,Kevin,Rocco,TARGET,$52.79,7/11/2020,"Aug , 2020",8/10/2020,,,,,,52.79,,
+5e02237f-d008-4777-b15b-5c3fdbf68c5a,Kevin Rocco,Kevin,Rocco,HOME DEPOT,$52.79,7/12/2020,"Aug , 2020",,Amount too small,,,,,52.79,,
+5e02237f-d008-4777-b15b-5c3fdbf68c5a,Kevin Rocco,Kevin,Rocco,FIVE BELOW,$52.79,7/13/2020,"Aug , 2020",,Amount too small,,,,,52.79,,
+5e02237f-d008-4777-b15b-5c3fdbf68c5a,1st Rate Affiliate LLC,Jomar,Estrella,CUPS FROZEN YOGURT,$52.79,8/10/2020,"Aug , 2020",8/10,AMOUNT too small,,,,,52.79,,
+e88187c9-9ad0-4203-9ea1-20df015f6c57,Alan Martinez Leos,Alan,Martinez Leos,PAYPAL *RCROMANCRES,$52.79,6/5/2020,"Aug , 2020",08/17/2020,,,,,,52.79,,
+c04e58c3-1c34-4ba9-9524-51d55cca10c6,Juliano Cristino de Castro,Juliano,Cristino de Castro,HOMEDEPOT.COM,$52.79,7/15/2020,"Aug , 2020",08/21/20,,,,,,52.79,,
+9855bae0-dfd5-44d1-b40d-131ca530fae3,K,Igor,Kurimets,best buy,$52.79,8/24/2020,"Aug , 2020",8/26,,,,,,52.79,,TK
+9855bae0-dfd5-44d1-b40d-131ca530fae3,Igor Kurimets,Igor,Kurimets,best buy,$52.79,8/24/2020,"Aug , 2020",8/26,,,,,,52.79,,TK
+9855bae0-dfd5-44d1-b40d-131ca530fae3,Igor Kurimets,Igor,Kurimets,best buy,$52.79,8/24/2020,"Aug , 2020",8/26,,,,,,52.79,,TK
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,No Bull Co,James,Iacono,AB Moving,$52.79,8/4/2020,"Aug , 2020",8/10,,,,,,52.79,,TK
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,No Bull Co,James,Iacono,ETT*TheAlexanRENT,$52.79,8/4/2020,"Aug , 2020",8/10,,,,,,52.79,,TK
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,No Bull Co,James,Iacono,YSI*Mandolin Merchant,$52.79,8/4/2020,"Aug , 2020",8/10,,,,,,52.79,,TK
+fe565822-e8c0-4ea3-9d8d-2add9080c299,Kenneth George,Kenneth,George,APPLE.COM/US,$52.79,8/28/2020,"Aug , 2020",8/31,,,,,,52.79,,MN
+76fa8299-29cc-4341-8ace-e29df6664877,Reginaldo dos Santos Pinto Lee,Reginaldo,dos Santos Pinto Lee,WALMART.COM,$52.79,9/7/2020,"Sep , 2020",9/7,,,,,,52.79,,
+9855bae0-dfd5-44d1-b40d-131ca530fae3,Igor Kurimets,Igor,Kurimets,Hollywood Hair,$52.79,6/28/2020,"Sep , 2020",9/8,,,,,,52.79,,
+9855bae0-dfd5-44d1-b40d-131ca530fae3,Igor Kurimets,Igor,Kurimets,Hollywood Hair,$52.79,6/28/2020,"Sep , 2020",9/8,,,,,,52.79,,
+9855bae0-dfd5-44d1-b40d-131ca530fae3,Igor Kurimets,Igor,Kurimets,Hollywood Hair,$52.79,6/27/2020,"Sep , 2020",9/8,,,,,,52.79,,
+9855bae0-dfd5-44d1-b40d-131ca530fae3,Igor Kurimets,Igor,Kurimets,Hollywood Hair,$52.79,6/27/2020,"Sep , 2020",9/8,,,,,,52.79,,
+9855bae0-dfd5-44d1-b40d-131ca530fae3,Igor Kurimets,Igor,Kurimets,Customer Service Center,$52.79,6/19/2020,"Sep , 2020",9/8,,,,,,52.79,,
+110f93b5-a273-438b-a34c-f2757b0f166f,ProximityGo LLC,MARTHA,CASTIBLANCO,Spyfly.com,$52.79,9/5/2020,"Sep , 2020",09/09,,,,,,52.79,$29.97,MN
+d2d283be-ed80-427c-a8a2-92782ea8ea67,"NIBIRU4U, INC",Alexey,Ukhnalev,TJMAXX,$52.79,9/26/2020,"Sep , 2020",9/28,,,,,,52.79,,
+2ae4591a-8c79-4f61-b76c-d93e90cc6a41,Christoph Robustelli,Christoph,Robustelli,STACKCOMME* SC* ZDNET,$52.79,8/28/2020,"Sep , 2020",9/14/2020,,,,,,52.79,,RW
+1a364117-e49f-4688-9df1-9512215a606b,Thomas Martinac,Thomas,Martinac,4Gifters Italia srl,$52.79,9/18/2020,"Sep , 2020",9/28/2020,,,,,,52.79,,RW
+1a364117-e49f-4688-9df1-9512215a606b,Thomas Martinac,Thomas,Martinac,4Gifters Italia srl,$52.79,9/18/2020,"Sep , 2020",9/28/2020,,,,,,52.79,,RW
+fc190dbb-686c-47a6-893a-c54960076157,White Wing Services LLC,fernando,Mesquita de souza,Best Buy  ,$52.79,9/29/2020,"Sep , 2020",9/29,,,,,,52.79,,
+fc190dbb-686c-47a6-893a-c54960076158,White Wing Services LLC,fernando,Mesquita de souza,Best Buy  ,$52.79,9/29/2020,"Sep , 2020",9/29,,,,,,52.79,,
+fc190dbb-686c-47a6-893a-c54960076159,White Wing Services LLC,fernando,Mesquita de souza,Best Buy  ,$52.79,9/29/2020,"Sep , 2020",9/29,,,,,,52.79,,
+fc190dbb-686c-47a6-893a-c54960076160,White Wing Services LLC,fernando,Mesquita de souza,Best Buy  ,$52.79,9/29/2020,"Sep , 2020",9/29,,,,,,52.79,,
+38db407c-e8ed-4466-b9cf-4bd3ecbbef27,FB Trading LLC,Federico,Brocher,BEST BUY,$52.79,9/29/2020,"Sep , 2020",9/30,,,,,,52.79,,TK
+38db407c-e8ed-4466-b9cf-4bd3ecbbef27,FB Trading LLC,Federico,Brocher,BEST BUY,$52.79,9/29/2020,"Sep , 2020",9/30,,,,,,52.79,,TK
+38db407c-e8ed-4466-b9cf-4bd3ecbbef27,FB Trading LLC,Federico,Brocher,BEST BUY,$52.79,9/29/2020,"Sep , 2020",9/30,,,,,,52.79,,TK
+38db407c-e8ed-4466-b9cf-4bd3ecbbef27,FB Trading LLC,Federico,Brocher,BEST BUY,$52.79,9/29/2020,"Sep , 2020",9/30,,,,,,52.79,,TK
+38db407c-e8ed-4466-b9cf-4bd3ecbbef27,FB Trading LLC,Federico,Brocher,BEST BUY,$52.79,9/29/2020,"Sep , 2020",9/30,,,,,,52.79,,TK
+38db407c-e8ed-4466-b9cf-4bd3ecbbef27,FB Trading LLC,Federico,Brocher,BEST BUY,$52.79,9/29/2020,"Sep , 2020",9/30,,,,,,52.79,,TK
+6fda8fe1-9e23-43f0-b87c-7fae62a40e85,The Invite Lady LLC,Shaina,Edwards,ENDICIA POSTAGE (EMS),$52.79,10/1/2020,"Oct , 2020",10/5,,won,,,,52.79,,
+9173fe5f-f31f-4bab-b828-ba3560f688f9,James Halkias,James,Halkias,FATBURGER - CHERRY HILL M,$52.79,10/4/2020,"Oct , 2020",10/5/2020,lost,Does not meet the $25 chargeback threshold,,,,52.79,,RW
+9173fe5f-f31f-4bab-b828-ba3560f688f9,James Halkias,James,Halkias,10636 CHERRY HILL MALL,$52.79,10/4/2020,"Oct , 2020",10/5/2020,lost,Rejected: electronically read,,,,52.79,,RW
+9173fe5f-f31f-4bab-b828-ba3560f688f10,James Halkias,James,Halkias,URBAN OUTFTRS # 130,$52.79,10/4/2020,"Oct , 2020",10/6/2020,lost,Rejected: electronically read,,,,52.79,,
+c04e58c3-1c34-4ba9-9524-51d55cca10c6,Juliano Cristino de Castro,Juliano,Cristino de Castro,WALGREENS.COM,$52.79,9/22/2020,"Oct , 2020",10/7/2020,,,,,,52.79,,
+6d82c207-6ad4-49d5-9614-c016f34a224a,Kevin McKay,Kevin,McKay,PP*128COMPUTERS,$52.79,10/3/2020,"Oct , 2020",10/8/2020,,won,,,,52.79,,
+fb9777e5-079b-4870-8eab-acf8d65fe2a7,"Sabaidee, LLC",Duangkaew,Skowron,BEST BUY,$52.79,10/17/2020,"Oct , 2020",10/20/2020,,,,,,52.79,,
+fb9777e5-079b-4870-8eab-acf8d65fe2a7,"Sabaidee, LLC",Duangkaew,Skowron,BEST BUY,$52.79,10/17/2020,"Oct , 2020",10/20/2020,,,,,,52.79,,
+fb9777e5-079b-4870-8eab-acf8d65fe2a7,"Sabaidee, LLC",Duangkaew,Skowron,BEST BUY CO INC,$52.79,10/17/2020,"Oct , 2020",10/20/2020,,,,,,52.79,,
+fb9777e5-079b-4870-8eab-acf8d65fe2a7,"Sabaidee, LLC",Duangkaew,Skowron,BEST BUY,$52.79,10/17/2020,"Oct , 2020",10/20/2020,,,,,,52.79,,
+fb9777e5-079b-4870-8eab-acf8d65fe2a7,"Sabaidee, LLC",Duangkaew,Skowron,BEST BUY,$52.79,10/17/2020,"Oct , 2020",10/20/2020,,,,,,52.79,,
+fb9777e5-079b-4870-8eab-acf8d65fe2a7,"Sabaidee, LLC",Duangkaew,Skowron,BEST BUY,$52.79,10/17/2020,"Oct , 2020",10/20/2020,,,,,,52.79,,
+fb9777e5-079b-4870-8eab-acf8d65fe2a7,"Sabaidee, LLC",Duangkaew,Skowron,BEST BUY,$52.79,10/17/2020,"Oct , 2020",10/20/2020,,,,,,52.79,,
+fb9777e5-079b-4870-8eab-acf8d65fe2a7,"Sabaidee, LLC",Duangkaew,Skowron,BEST BUY,$52.79,10/17/2020,"Oct , 2020",10/20/2020,,,,,,52.79,,
+fb9777e5-079b-4870-8eab-acf8d65fe2a7,"Sabaidee, LLC",Duangkaew,Skowron,BEST BUY,$52.79,10/17/2020,"Oct , 2020",10/20/2020,,,,,,52.79,,
+fb9777e5-079b-4870-8eab-acf8d65fe2a7,"Sabaidee, LLC",Duangkaew,Skowron,BEST BUY,$52.79,10/17/2020,"Oct , 2020",10/20/2020,,,,,,52.79,,
+fb9777e5-079b-4870-8eab-acf8d65fe2a7,"Sabaidee, LLC",Duangkaew,Skowron,BEST BUY,$52.79,10/17/2020,"Oct , 2020",10/20/2020,,,,,,52.79,,
+fb9777e5-079b-4870-8eab-acf8d65fe2a7,"Sabaidee, LLC",Duangkaew,Skowron,BEST BUY,$52.79,10/17/2020,"Oct , 2020",10/20/2020,,,,,,52.79,,
+fb9777e5-079b-4870-8eab-acf8d65fe2a7,"Sabaidee, LLC",Duangkaew,Skowron,BEST BUY,$52.79,10/17/2020,"Oct , 2020",10/20/2020,,,,,,52.79,,
+fb9777e5-079b-4870-8eab-acf8d65fe2a7,"Sabaidee, LLC",Duangkaew,Skowron,BEST BUY,$52.79,10/17/2020,"Oct , 2020",10/20/2020,,,,,,52.79,,
+fb9777e5-079b-4870-8eab-acf8d65fe2a7,"Sabaidee, LLC",Duangkaew,Skowron,BEST BUY #356,$52.79,10/17/2020,"Oct , 2020",10/20/2020,,,,,,52.79,,
+fb9777e5-079b-4870-8eab-acf8d65fe2a7,"Sabaidee, LLC",Duangkaew,Skowron,BEST BUY,$52.79,10/17/2020,"Oct , 2020",10/20/2020,,Won,,,,52.79,,
+fb9777e5-079b-4870-8eab-acf8d65fe2a7,"Sabaidee, LLC",Duangkaew,Skowron,BEST BUY,$52.79,10/17/2020,"Oct , 2020",10/20/2020,,,,,,52.79,,
+fb9777e5-079b-4870-8eab-acf8d65fe2a7,"Sabaidee, LLC",Duangkaew,Skowron,BEST BUY CO INC,$52.79,10/17/2020,"Oct , 2020",10/20/2020,,,,,,52.79,,
+fb9777e5-079b-4870-8eab-acf8d65fe2a7,"Sabaidee, LLC",Duangkaew,Skowron,BEST BUY,$52.79,10/17/2020,"Oct , 2020",10/20/2020,,,,,,52.79,,
+fb9777e5-079b-4870-8eab-acf8d65fe2a7,"Sabaidee, LLC",Duangkaew,Skowron,BEST BUY,$52.79,10/17/2020,"Oct , 2020",10/20/2020,,,,,,52.79,,
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,PARC RESTAURANT,$52.79,11/2/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,EL VEZ,$52.79,11/1/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,REEF RESTAURANT,$52.79,11/1/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,YARD HOUSE 0108347,$52.79,10/30/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,RIEH'S FLORIST LLC,$52.79,10/29/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,EL VEZ,$52.79,10/21/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,EDDIE V'S 0178522,$52.79,10/19/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,EDDIE V'S 0178522,$52.79,10/19/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,RIEH'S FLORIST LLC,$52.79,10/15/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,RIEH'S FLORIST LLC,$52.79,10/15/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,"NETWORK FOR GOOD, INC.",$52.79,10/15/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,RIEH'S FLORIST LLC,$52.79,10/15/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,EL VEZ,$52.79,10/9/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,Marmont Steakhouse,$52.79,10/7/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,EL VEZ,$52.79,10/6/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,PARC RESTAURANT,$52.79,10/5/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,PARC RESTAURANT,$52.79,10/1/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,PARC RESTAURANT,$52.79,9/30/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,EDDIE V'S 0178522,$52.79,9/26/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,PARC RESTAURANT,$52.79,9/22/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,PARC RESTAURANT,$52.79,9/20/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,MASTRO'S - BEVERLY HILLS,$52.79,8/6/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,BUDDAKAN,$52.79,8/6/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,EDDIE V'S 0178522,$52.79,8/4/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,PARC RESTAURANT,$52.79,7/30/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,EDDIE V'S 0178522,$52.79,7/30/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,PARC RESTAURANT,$52.79,7/27/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,PARC RESTAURANT,$52.79,7/27/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,EDDIE V'S 0178522,$52.79,7/27/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,EDDIE V'S 0178522,$52.79,7/26/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,EDDIE V'S 0178522,$52.79,7/26/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,South City Kitchen,$52.79,7/25/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,RUTH'S CHRIS STEAK HOUSE-,$52.79,7/24/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,RUTH'S CHRIS STEAK HOUSE-,$52.79,7/24/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,RUTH'S CHRIS STEAK HOUSE-,$52.79,7/24/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,BUDDAKAN,$52.79,7/19/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,BUDDAKAN,$52.79,7/10/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,EL VEZ,$52.79,7/10/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,PARC RESTAURANT,$52.79,7/10/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,BUDDAKAN,$52.79,7/10/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,PARC RESTAURANT,$52.79,7/10/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,EL VEZ,$52.79,7/10/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,PARC RESTAURANT,$52.79,7/10/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+eee7ae87-420c-4ee0-ad2b-b688a56a0da7,David Barnes,David,Barnes,EDDIE V'S 0178522,$52.79,11/2/2020,"Nov , 2020",11/5/20,,WON,,,,52.79,,TK
+3b68d3e0-e354-4d42-a7e6-f6e6d8e299fa,MHR Trading Inc,Moshe,Rottenberg,AAFAQ ISLAMIC FINANCE,$52.79,11/6/2020,"Nov , 2020",11/7/2020,,WON,,,,52.79,,TK
+3b68d3e0-e354-4d42-a7e6-f6e6d8e299fa,MHR Trading Inc,Moshe,Rottenberg,AAFAQ ISLAMIC FINANCE,$52.79,11/6/2020,"Nov , 2020",11/7/2020,,WON,,,,52.79,,TK
+3b68d3e0-e354-4d42-a7e6-f6e6d8e299fa,MHR Trading Inc,Moshe,Rottenberg,AAFAQ ISLAMIC FINANCE,$52.79,11/6/2020,"Nov , 2020",11/7/2020,,WON,,,,52.79,,TK
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,No Bull Co,James,Iacono,ONCLOUDSNINE,$52.79,11/4/2020,"Nov , 2020",11/11/2020,,WON,,,,52.79,,TK
+b5e6c95b-f4fa-43d0-8ae0-4981f312cdbd,Eugene Revutsky,Eugene,Revutsky,"DR. SEEDS, LLC",$52.79,11/10/2020,"Nov , 2020",11/16/20,,WON,,,,52.79,,TK
+c04e58c3-1c34-4ba9-9524-51d55cca10c6,Juliano Cristino de Castro,Juliano,Cristino de Castro,	OVR*O.CO/OVERSTOCK.COM,$52.79,10/5/2020,"Dec , 2020",12/3/2020,,,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,FAWRY,$52.79,11/29/20,"Dec , 2020",12/10/2020,,,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,FAWRY,$52.79,11/29/20,"Dec , 2020",12/10/2020,,,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,FAWRY,$52.79,11/29/20,"Dec , 2020",12/10/2020,,,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,FAWRY,$52.79,11/29/20,"Dec , 2020",12/10/2020,,,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,FAWRY,$52.79,11/29/20,"Dec , 2020",12/10/2020,,,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,FAWRY,$52.79,11/29/20,"Dec , 2020",12/10/2020,,,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,FAWRY,$52.79,11/29/20,"Dec , 2020",12/10/2020,,,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,FAWRY,$52.79,11/29/20,"Dec , 2020",12/10/2020,,,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,FAWRY,$52.79,11/29/20,"Dec , 2020",12/10/2020,,,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,FAWRY,$52.79,11/29/20,"Dec , 2020",12/10/2020,,Won,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,FAWRY,$52.79,11/29/20,"Dec , 2020",12/10/2020,,,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,FAWRY,$52.79,11/29/20,"Dec , 2020",12/20/2020,,,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,FAWRY,$52.79,11/29/20,"Dec , 2020",12/10/2020,,,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,FAWRY,$52.79,11/29/20,"Dec , 2020",12/10/2020,,,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,FAWRY,$52.79,11/29/20,"Dec , 2020",12/10/2020,,,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,FAWRY,$52.79,11/29/20,"Dec , 2020",12/10/2020,,,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,Emicool Plus Cooling,$52.79,12/6/20,"Dec , 2020",12/10/2020,,,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,Emicool Plus Cooling,$52.79,12/7/20,"Dec , 2020",12/10/2020,,LOST,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,Emicool Plus Cooling,$52.79,12/7/20,"Dec , 2020",12/10/2020,,,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,Emicool Plus Cooling,$52.79,12/7/20,"Dec , 2020",12/10/2020,,,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,Emicool Plus Cooling,$52.79,12/7/20,"Dec , 2020",12/10/2020,,,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,Emicool Plus Cooling,$52.79,12/7/20,"Dec , 2020",12/10/2020,,,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,Emicool Plus Cooling,$52.79,12/7/20,"Dec , 2020",12/10/2020,,,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,Emicool Plus Cooling,$52.79,12/7/20,"Dec , 2020",12/10/2020,,,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,Emicool Plus Cooling,$52.79,12/7/20,"Dec , 2020",12/10/2020,,,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,Emicool Plus Cooling,$52.79,12/7/20,"Dec , 2020",12/10/2020,,,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,Emicool Plus Cooling,$52.79,12/7/20,"Dec , 2020",12/10/2020,,,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,Emicool Plus Cooling,$52.79,12/7/20,"Dec , 2020",12/10/2020,,,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,Emicool Plus Cooling,$52.79,12/9/20,"Dec , 2020",12/11/2020,,LOST,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,Emicool Plus Cooling,$52.79,12/9/20,"Dec , 2020",12/11/2020,,,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,Emicool Plus Cooling,$52.79,12/9/20,"Dec , 2020",12/11/2020,,,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,Egy Souk,$52.79,12/7/20,"Dec , 2020",12/10/2020,,,,,,52.79,,MH
+f04db3fc-a98d-4b53-b7bd-c9017b4f9642,Philip Dial,Philip,Dial,Egy Souk,$52.79,12/7/20,"Dec , 2020",12/10/2020,,,,,,52.79,,MH
+a8aa8c23-ae49-4b01-9398-300ea554346b,Cunhas Professional Trading LLC,Marcos,Cunha,PREDOVIY COM,$52.79,12/16/20,"Dec , 2020",12/21/2020,,,,,,52.79,,
+38db407c-e8ed-4466-b9cf-4bd3ecbbef27,FB Trading LLC,Federico ,Bocher,PIZZA HUT ,$52.79,12/23/2020,"Dec , 2020",12/23,,,,,,52.79,,
+178a7bb2-3a66-465b-89e9-3bea3263c27c,Sunflower Ideas LLC,Sansarah,Beermann,Office Depot,$52.79,12/13/2020,"Dec , 2020",12/23/2020,,,,,,52.79,,RW
+ea18cee8-fda6-4695-8cf3-22325b20e041,Ana Paula Moreira,Ana,Moreira,POWER EQUIP DIRECT,$52.79,12/24/2020,"Dec , 2020",12/28/2020,,,,,,52.79,,RW
+ea18cee8-fda6-4695-8cf3-22325b20e042,Ana Paula Moreira,Ana,Moreira,MONDIAL MIDDLE EAS,$52.79,12/23/2020,"Dec , 2020",12/28/2020,,"Declined, doesn't meet $25 min",,,,52.79,,RW
+ea18cee8-fda6-4695-8cf3-22325b20e043,Ana Paula Moreira,Ana,Moreira,OMAN AIR,$52.79,12/23/2020,"Dec , 2020",12/28/2020,,,,,,52.79,,RW
+ea18cee8-fda6-4695-8cf3-22325b20e044,Ana Paula Moreira,Ana,Moreira,OneTwoTrip,$52.79,12/23/2020,"Dec , 2020",12/28/2020,,,,,,52.79,,RW
+ea18cee8-fda6-4695-8cf3-22325b20e045,Ana Paula Moreira,Ana,Moreira,OJOOO AG,$52.79,12/23/2020,"Dec , 2020",12/28/2020,,,,,,52.79,,RW
+38db407c-e8ed-4466-b9cf-4bd3ecbbef27,FB Trading LLC,Federico ,Bocher,THEAA,$52.79,12/24/2020,"Dec , 2020",12/30/2020,,,,,,52.79,Y,MH
+38db407c-e8ed-4466-b9cf-4bd3ecbbef27,FB Trading LLC,Federico ,Bocher,Halfords on line,$52.79,12/24/2020,"Dec , 2020",12/30/2020,,,,,,52.79,,Mh
+38db407c-e8ed-4466-b9cf-4bd3ecbbef27,FB Trading LLC,Federico ,Bocher,Halfords on line,$52.79,12/24/2020,"Dec , 2020",12/30/2020,,,,,,52.79,,Mh 
+38db407c-e8ed-4466-b9cf-4bd3ecbbef27,FB Trading LLC,Federico ,Bocher,Halfords on line,$52.79,12/24/2020,"Dec , 2020",12/30/2020,,,,,,52.79,,Mh 
+5c722e65-7d82-4c59-a6f8-cbcdf835a3b4,SunGifts Trading LLC,Melissa,Eaves,MIHOYO LIMITED,$52.79,12/29/2020,,,"Did not dipute, less than $25",,,,,52.79,,MN
+5c722e65-7d82-4c59-a6f8-cbcdf835a3b4,SunGifts Trading LLC,Melissa,Eaves,MIHOYO LIMITED,$52.79,12/29/2020,,,"Did not dipute, less than $25",,,,,52.79,,MN
+5c722e65-7d82-4c59-a6f8-cbcdf835a3b4,SunGifts Trading LLC,Melissa,Eaves,MIHOYO LIMITED,$52.79,12/29/2020,,,"Did not dipute, less than $25",,,,,52.79,,MN
+5c722e65-7d82-4c59-a6f8-cbcdf835a3b4,SunGifts Trading LLC,Melissa,Eaves,MIHOYO LIMITED,$52.79,12/29/2020,,,"Did not dipute, less than $25",,,,,52.79,,MN
+5c722e65-7d82-4c59-a6f8-cbcdf835a3b4,SunGifts Trading LLC,Melissa,Eaves,MIHOYO LIMITED,$52.79,12/29/2020,,,"Did not dipute, less than $25",,,,,52.79,,MN
+5c722e65-7d82-4c59-a6f8-cbcdf835a3b4,SunGifts Trading LLC,Melissa,Eaves,MIHOYO LIMITED,$52.79,12/29/2020,,,"Did not dipute, less than $25",,,,,52.79,,MN
+5c722e65-7d82-4c59-a6f8-cbcdf835a3b4,SunGifts Trading LLC,Melissa,Eaves,MIHOYO LIMITED,$52.79,12/29/2020,,,"Did not dipute, less than $25",,,,,52.79,,MN
+5c722e65-7d82-4c59-a6f8-cbcdf835a3b4,SunGifts Trading LLC,Melissa,Eaves,MIHOYO LIMITED,$52.79,12/29/2020,,,"Did not dipute, less than $25",,,,,52.79,,MN
+5c722e65-7d82-4c59-a6f8-cbcdf835a3b4,SunGifts Trading LLC,Melissa,Eaves,MIHOYO LIMITED,$52.79,12/29/2020,,,"Did not dipute, less than $25",,,,,52.79,,MN
+5c722e65-7d82-4c59-a6f8-cbcdf835a3b4,SunGifts Trading LLC,Melissa,Eaves,MIHOYO LIMITED,$52.79,12/29/2020,,,"Did not dipute, less than $25",,,,,52.79,,MN
+5c722e65-7d82-4c59-a6f8-cbcdf835a3b4,SunGifts Trading LLC,Melissa,Eaves,MIHOYO LIMITED,$52.79,12/29/2020,,,"Did not dipute, less than $25",,,,,52.79,,MN
+5c722e65-7d82-4c59-a6f8-cbcdf835a3b4,SunGifts Trading LLC,Melissa,Eaves,MIHOYO LIMITED,$52.79,12/29/2020,,,"Did not dipute, less than $25",,,,,52.79,,MN
+5c722e65-7d82-4c59-a6f8-cbcdf835a3b4,SunGifts Trading LLC,Melissa,Eaves,MIHOYO LIMITED,$52.79,12/29/2020,,,"Did not dipute, less than $25",,,,,52.79,,MN
+5c722e65-7d82-4c59-a6f8-cbcdf835a3b4,SunGifts Trading LLC,Melissa,Eaves,MIHOYO LIMITED,$52.79,12/29/2020,,,"Did not dipute, less than $25",,,,,52.79,,MN
+5c722e65-7d82-4c59-a6f8-cbcdf835a3b4,SunGifts Trading LLC,Melissa,Eaves,MIHOYO LIMITED,$52.79,12/29/2020,,,"Did not dipute, less than $25",,,,,52.79,,MN
+5c722e65-7d82-4c59-a6f8-cbcdf835a3b4,SunGifts Trading LLC,Melissa,Eaves,MIHOYO LIMITED,$52.79,12/29/2020,,,"Did not dipute, less than $25",,,,,52.79,,MN
+5c722e65-7d82-4c59-a6f8-cbcdf835a3b4,SunGifts Trading LLC,Melissa,Eaves,MIHOYO LIMITED,$52.79,12/29/2020,,,"Did not dipute, less than $25",,,,,52.79,,MN
+5c722e65-7d82-4c59-a6f8-cbcdf835a3b4,SunGifts Trading LLC,Melissa,Eaves,MIHOYO LIMITED,$52.79,12/29/2020,,,"Did not dipute, less than $25",,,,,52.79,,MN
+5c722e65-7d82-4c59-a6f8-cbcdf835a3b4,SunGifts Trading LLC,Melissa,Eaves,MIHOYO LIMITED,$52.79,12/29/2020,,,"Did not dipute, less than $25",,,,,52.79,,MN
+5c722e65-7d82-4c59-a6f8-cbcdf835a3b4,SunGifts Trading LLC,Melissa,Eaves,MIHOYO LIMITED,$52.79,12/29/2020,,,"Did not dipute, less than $25",,,,,52.79,,MN
+5c722e65-7d82-4c59-a6f8-cbcdf835a3b4,SunGifts Trading LLC,Melissa,Eaves,MIHOYO LIMITED,$52.79,12/29/2020,,,"Did not dipute, less than $25",,,,,52.79,,MN
+5c722e65-7d82-4c59-a6f8-cbcdf835a3b4,SunGifts Trading LLC,Melissa,Eaves,MIHOYO LIMITED,$52.79,12/29/2020,,,"Did not dipute, less than $25",,,,,52.79,,MN
+5c722e65-7d82-4c59-a6f8-cbcdf835a3b4,SunGifts Trading LLC,Melissa,Eaves,MIHOYO LIMITED,$52.79,12/29/2020,,,"Did not dipute, less than $25",,,,,52.79,,MN
+5c722e65-7d82-4c59-a6f8-cbcdf835a3b4,SunGifts Trading LLC,Melissa,Eaves,MIHOYO LIMITED,$52.79,12/29/2020,,,"Did not dipute, less than $25",,,,,52.79,,MN
+5c722e65-7d82-4c59-a6f8-cbcdf835a3b4,SunGifts Trading LLC,Melissa,Eaves,MIHOYO LIMITED,$52.79,12/29/2020,,,"Did not dipute, less than $25",,,,,52.79,,MN
+5c722e65-7d82-4c59-a6f8-cbcdf835a3b4,SunGifts Trading LLC,Melissa,Eaves,MIHOYO LIMITED,$52.79,12/29/2020,,,"Did not dipute, less than $25",,,,,52.79,,MN
+5c722e65-7d82-4c59-a6f8-cbcdf835a3b4,SunGifts Trading LLC,Melissa,Eaves,MIHOYO LIMITED,$52.79,12/29/2020,,,"Did not dipute, less than $25",,,,,52.79,,MN
+5c722e65-7d82-4c59-a6f8-cbcdf835a3b4,SunGifts Trading LLC,Melissa,Eaves,MIHOYO LIMITED,$52.79,12/29/2020,,,"Did not dipute, less than $25",,,,,52.79,,MN
+5c722e65-7d82-4c59-a6f8-cbcdf835a3b4,SunGifts Trading LLC,Melissa,Eaves,MIHOYO LIMITED,$52.79,12/29/2020,,,"Did not dipute, less than $25",,,,,52.79,,MN
+5c722e65-7d82-4c59-a6f8-cbcdf835a3b4,SunGifts Trading LLC,Melissa,Eaves,MIHOYO LIMITED,$52.79,12/29/2020,,,"Did not dipute, less than $25",,,,,52.79,,MN
+5c722e65-7d82-4c59-a6f8-cbcdf835a3b4,SunGifts Trading LLC,Melissa,Eaves,Xsolla *Roblox,$52.79,12/28/2020,,,"Did not dipute, less than $25",,,,,52.79,,MN
+0e8c5ab2-1a14-4294-94e9-cc4c6222db71,Junio Rodrigues Morais,Junio ,Morais,Booking.com,$52.79,1/1/2021,"Jan , 2021",,,,,,,52.79,,MH 
+41cd3675-9c4e-402c-8994-a6b25f8351c2,Lisa Marie Waring,Lisa,Marie,PAYPAL *ASOSCOMLTD,$52.79,10/14/2020,"Jan , 2021","Jan , 2021",,,,,,52.79,,RW
+34c2f0a2-e381-4ae4-9d21-9d5b3bbf6730,WOODPECKER RC LLC,Roberto ,Santos ,Home Depot ,$52.79,12/17/2020,"Jan , 2021",,,,,,,52.79,,
+16fe1e13-b520-4613-8ebe-33249ce6bee4,Tiger's Depot LLC,Yu,Zeng,NOEN1MINH CF,$52.79,1/5/2021,"Jan , 2021",,,,,,,52.79,,
+16fe1e13-b520-4613-8ebe-33249ce6bee5,Tiger's Depot LLC,Yu,Zeng,FOREO USA	,$52.79,1/6/2021,"Jan , 2021",,,,,,,52.79,,
+16fe1e13-b520-4613-8ebe-33249ce6bee6,Tiger's Depot LLC,Yu,Zeng,Etsy.com,$52.79,1/7/2021,"Jan , 2021",,,,,,,52.79,,
+16fe1e13-b520-4613-8ebe-33249ce6bee7,Tiger's Depot LLC,Yu,Zeng,SP * BRIGHTAMOS,$52.79,1/8/2021,"Jan , 2021",,,,,,,52.79,,
+c561b63a-d933-46bb-9710-61506cf6b47f,Ironfox LLC,Jeffrey,Feldman,SAMSCLUB.COM,$52.79,1/6/2021,"Jan , 2021",1/11/21,,Won,,,,52.79,,RW
+c561b63a-d933-46bb-9710-61506cf6b47f,Ironfox LLC,Jeffrey,Feldman,SAMSCLUB.COM,$52.79,1/6/2021,"Jan , 2021",1/11/21,,Won,,,,52.79,,RW
+c561b63a-d933-46bb-9710-61506cf6b47f,Ironfox LLC,Jeffrey,Feldman,SAMSCLUB.COM,$52.79,1/6/2021,"Jan , 2021",1/11/21,,Won,,,,52.79,,RW
+c561b63a-d933-46bb-9710-61506cf6b47f,Ironfox LLC,Jeffrey,Feldman,SAMSCLUB.COM,$52.79,1/6/2021,"Jan , 2021",1/11/21,,Won,,,,52.79,,RW
+6526e324-e1dc-494f-9ce1-78b0f5c47c54,Joy Morris,Joy,Morris,Acanac.ca,$52.79,12/22/2020,"Jan , 2021",1/11/21,,,,,,52.79,,RW
+c561b63a-d933-46bb-9710-61506cf6b47f,Ironfox LLC,Jeffrey,Feldman,BJS WHOLESALE CLUB,$52.79,1/7/2021,"Jan , 2021",1/12/2020,,Won,,,,52.79,,MN
+26b38390-d37b-4a3a-8bef-fd9c76bb1d97,TP Services Inc,Dmytro,Tsyhlin,B2B Prime,$52.79,11/27/2020,"Jan , 2021",1/13/2021,,,,,,52.79,,MN
+178a7bb2-3a66-465b-89e9-3bea3263c27c,Sunflower Ideas LLC,Sansarah,Beermann,LOWES #00907*,$52.79,12/5/2020,"Jan , 2021",1/13/2020,,,,,,52.79,,MN
+56c454ed-b84e-4a7c-aa5d-95fe6bfff4ca,Mark Fender,Mark,Fender,NAT*YourScoreandMore,$52.79,12/7/20,"Jan , 2021",,too small to dispute,,,,,52.79,,MN
+56c454ed-b84e-4a7c-aa5d-95fe6bfff4ca,Mark Fender,Mark,Fender,NAT*YourScoreandMore,$52.79,12/3/2020,"Jan , 2021",,too small to dispute,,,,,52.79,,MN
+56c454ed-b84e-4a7c-aa5d-95fe6bfff4ca,Mark Fender,Mark,Fender,NAT*YourScoreandMore,$52.79,12/1/2020,"Jan , 2021",,too small to dispute,,,,,52.79,,MN
+56c454ed-b84e-4a7c-aa5d-95fe6bfff4ca,Mark Fender,Mark,Fender,NAT*YourScoreandMore,$52.79,11/28/2020,"Jan , 2021",,too small to dispute,,,,,52.79,,MN
+56c454ed-b84e-4a7c-aa5d-95fe6bfff4ca,Mark Fender,Mark,Fender,NAT*YourScoreandMore,$52.79,1/15/2021,"Jan , 2021",,too small to dispute,,,,,52.79,,MN
+c561b63a-d933-46bb-9710-61506cf6b47f,"Jeffrey Feldman
+",Jeffrey,Feldman,SAMSCLUB.COM,$52.79,1/6/2021,"Jan , 2021",1/19/2021,,won,,,,52.79,,MN
+c561b63a-d933-46bb-9710-61506cf6b47f,"Jeffrey Feldman
+",Jeffrey,Feldman,SAMSCLUB.COM,$52.79,1/6/2021,"Jan , 2021",1/19/2021,,won,,,,52.79,,MN
+c561b63a-d933-46bb-9710-61506cf6b47f,"Jeffrey Feldman
+",Jeffrey,Feldman,SAMSCLUB.COM,$52.79,1/6/2021,"Jan , 2021",1/19/2021,,won,,,,52.79,,MN
+c561b63a-d933-46bb-9710-61506cf6b47f,"Jeffrey Feldman
+",Jeffrey,Feldman,SAMSCLUB.COM,$52.79,1/6/2021,"Jan , 2021",1/19/2021,,won,,,,52.79,,MN
+c561b63a-d933-46bb-9710-61506cf6b47f,"Jeffrey Feldman
+",Jeffrey,Feldman,SAMSCLUB.COM,$52.79,1/6/2021,"Jan , 2021",1/19/2021,,won,,,,52.79,,MN
+c561b63a-d933-46bb-9710-61506cf6b47f,"Jeffrey Feldman
+",Jeffrey,Feldman,SAMSCLUB.COM,$52.79,1/6/2021,"Jan , 2021",1/19/2021,,won,,,,52.79,,MN
+d933cae6-86a1-45ae-b834-caebd87e6216,Rodrigo DeCastro,Rodrigo,DeCastro,IUGU*CFpaulinha,$52.79,1/14/2021,"Jan , 2021",1/19/2021,,,,,,52.79,,
+d933cae6-86a1-45ae-b834-caebd87e6216,Rodrigo DeCastro,Rodrigo,DeCastro,IUGU*CFpaulinha,$52.79,12/14/2021,"Jan , 2021",1/19/2021,,,,,,52.79,,
+d933cae6-86a1-45ae-b834-caebd87e6216,Rodrigo DeCastro,Rodrigo,DeCastro,IUGU*CFpaulinha,$52.79,11/14/2021,"Jan , 2021",1/19/2021,,,,,,52.79,,
+d933cae6-86a1-45ae-b834-caebd87e6216,Rodrigo DeCastro,Rodrigo,DeCastro,Onlyfans.com,$52.79,12/29/2020,"Jan , 2021",1/19/2021,,,,,,52.79,,
+e1856917-b8bd-4e7b-a547-4724cf47b6f1,Deborah Morrison,Deborah ,Morrison,US CONCEALED ONLINE,$52.79,1/19/2021,"Jan , 2021",1/20/2021,,,,,,52.79,,MH
+e1856917-b8bd-4e7b-a547-4724cf47b6f1,Deborah Morrison,Deborah ,Morrison,getfirearmtraining,$52.79,1/19/2021,"Jan , 2021",1/20/2021,,,,,,52.79,,MH
+b38220bc-fde7-43ec-916a-ea512861c38e,Noname LLC,Devin,Brown,SKU Grid Subscription,$52.79,1/22/2021,"Jan , 2021",1/26/2021,,,,,,52.79,,MH
+b38220bc-fde7-43ec-916a-ea512861c38e,Noname LLC,Devin,Brown,SKU Grid Subscription,$52.79,12/21/2020,"Jan , 2021",1/26/2021,,,,,,52.79,,MH
+b38220bc-fde7-43ec-916a-ea512861c38e,Noname LLC,Devin,Brown,SKU Grid Subscription,$52.79,11/22/2020,"Jan , 2021",1/26/2021,,,,,,52.79,,MH
+b38220bc-fde7-43ec-916a-ea512861c38e,Noname LLC,Devin,Brown,SKU Grid Subscription,$52.79,10/17/2020,"Jan , 2021",1/26/2021,,,,,,52.79,,MH
+72399297-d35c-4b64-b815-cdd84a0dcbbd,E-Things LLC,Bruno,Santiago,Kroger,$52.79,1/7/2021,"Jan , 2021",1/28/2021,,,,,,52.79,,MN
+c04e58c3-1c34-4ba9-9524-51d55cca10c6,Juliano Cristino de Castro,Juliano Cristino,De Castro,PAYPAL: HOME DEPOT,$52.79,1/20/2021,"Feb , 2021",2/4/2021,,,,,,52.79,,MN
+6b2da31e-a54f-4807-92d3-a811e7b6a4c7,ricky  soumphont,ricky,soumphont,PROGRESSIVE *INSURANCE,$52.79,2/15/2021,"Feb , 2021",2/16/2021,supplier said family used his card. Cancelled the dispute,,,,,52.79,,MN
+c16e93a1-1834-4891-900f-7c04bac1030b,DDB PRIME SOLUTIONS LLC,SUZAN,INCI,SAMSCLUB.COM,$52.79,2/10/2021,"Feb , 2021",2/16/21,,,,,,52.79,,MN
+c16e93a1-1834-4891-900f-7c04bac1030b,DDB PRIME SOLUTIONS LLC,SUZAN,INCI,SAMSCLUB.COM,$52.79,2/11/2021,"Feb , 2021",2/16/21,,,,,,52.79,,MN
+c16e93a1-1834-4891-900f-7c04bac1030b,DDB PRIME SOLUTIONS LLC,SUZAN,INCI,SAMSCLUB.COM,$52.79,2/6/2021,"Feb , 2021",2/16/21,,,,,,52.79,,MN
+9855bae0-dfd5-44d1-b40d-131ca530fae3,Sell America L.L.C,Igor ,Kurimets,Replacement Parts,$52.79,1/22/2021,"Feb , 2021",2/3/21,,,,,,52.79,,MH
+9855bae0-dfd5-44d1-b40d-131ca530fae3,Sell America L.L.C,Igor ,Kurimets,ALPHA PROBIOTIC,$52.79,2/3/2021,"Feb , 2021",2/17,Refund Issued,,,,,52.79,,MN
+9855bae0-dfd5-44d1-b40d-131ca530fae3,Sell America L.L.C,Igor ,Kurimets,ALPHA PROBIOTIC,$52.79,1/5/2021,"Jan , 2021",2/17,Refund Issued,,,,,52.79,,MN
+9855bae0-dfd5-44d1-b40d-131ca530fae3,Sell America L.L.C,Igor ,Kurimets,PAYPLA ALPHAVITA,$52.79,1/5/2021,"Jan , 2021",2/22,Refund Issued,,,,,52.79,,MH
+af877441-2134-44e7-ba26-4051444a428f,Bouksha Trading LLC,Kurt ,Earnhart,GD INVESTMENTS,$52.79,2/22/2021,"Feb , 2021",2/24,,,,,,52.79,,TK
+e3511ae5-bbdf-41fd-acf0-c84596dd00f3,House Naturals LLC,AUDRIUS,DAUDERIS,WWW.CUSTOMGIFTS.COM,$52.79,1/27/2021,N/A,N/A,Amount less than $25. Did not dispute,,,,,52.79,,AC
+0f1b3090-dcd7-46a5-b31c-deb482373154,Work At-Home Equipment Solutions LLC,Daniel,Held,FEDEX 99604341,$52.79,3/16/2021,"Mar , 2021",3/16/2021,,,,,,52.79,,MN
+9d8028ee-afa8-4200-9cf7-3773c727c193,Amazing LLC,Felipe,Santos ,Viral Launch,$52.79,3/16/2021,"Mar , 2021",3/18/2021,,won,,,,52.79,,
+e88187c9-9ad0-4203-9ea1-20df015f6c57,Alan Martinez Leos,Alan ,Martinez Leos,Digipreneur Academy,$52.79,3/1/2021,"Apr , 2021",4/1/21,,,,,,52.79,,
+e88187c9-9ad0-4203-9ea1-20df015f6c57,Alan Martinez Leos,Alan ,Martinez Leos,Billionaires AC,$52.79,3/1/2021,"Apr , 2021",,,,,,,52.79,,
+e88187c9-9ad0-4203-9ea1-20df015f6c57,Alan Martinez Leos,Alan ,Martinez Leos,AMZNMarketplace,$52.79,3/1/2021,"Apr , 2021",,,,,,,52.79,,
+e88187c9-9ad0-4203-9ea1-20df015f6c57,Alan Martinez Leos,Alan ,Martinez Leos,AMZNMarketplace Amazon.co.uk,$52.79,3/1/2021,"Apr , 2021",,,,,,,52.79,,
+e88187c9-9ad0-4203-9ea1-20df015f6c57,Alan Martinez Leos,Alan ,Martinez Leos,AMAZON.CO.UK*MM2EV8094 AM,$52.79,3/1/2021,"Apr , 2021",,,,,,,52.79,,
+e88187c9-9ad0-4203-9ea1-20df015f6c57,Alan Martinez Leos,Alan ,Martinez Leos,AMZNMktplace,$52.79,3/1/2021,"Apr , 2021",,,,,,,52.79,,
+e88187c9-9ad0-4203-9ea1-20df015f6c57,Alan Martinez Leos,Alan ,Martinez Leos,Amazon Prime,$52.79,"Mar , 2021","Apr , 2021",,"Amount less than 25, cant dispute",,,,,52.79,,
+501d81ea-f7b4-4984-8e08-1303d765f861,Buddhika Karakahagoda,Buddhika,Karakahagoda,ALFONSINO S.R.L.,$52.79,4/1/2021,"Apr , 2021",4/1/2021,,,,,,52.79,,
+501d81ea-f7b4-4984-8e08-1303d765f861,Buddhika Karakahagoda,Buddhika,Karakahagoda,ALFONSINO S.R.L.,$52.79,4/1/2021,"Apr , 2021",4/1/2021,,,,,,52.79,,
+501d81ea-f7b4-4984-8e08-1303d765f861,Buddhika Karakahagoda,Buddhika,Karakahagoda,ALFONSINO S.R.L.,$52.79,4/1/2021,"Apr , 2021",4/1/2021,,,,,,52.79,,
+501d81ea-f7b4-4984-8e08-1303d765f861,Buddhika Karakahagoda,Buddhika,Karakahagoda,ALFONSINO S.R.L.,$52.79,4/1/2021,"Apr , 2021",4/1/2021,,,,,,52.79,,
+501d81ea-f7b4-4984-8e08-1303d765f861,Buddhika Karakahagoda,Buddhika,Karakahagoda,ALFONSINO S.R.L.,$52.79,4/1/2021,"Apr , 2021",4/1/2021,,,,,,52.79,,
+501d81ea-f7b4-4984-8e08-1303d765f861,Buddhika Karakahagoda,Buddhika,Karakahagoda,ALFONSINO S.R.L.,$52.79,4/1/2021,"Apr , 2021",4/1/2021,,,,,,52.79,,
+501d81ea-f7b4-4984-8e08-1303d765f861,Buddhika Karakahagoda,Buddhika,Karakahagoda,ALFONSINO S.R.L.,$52.79,4/1/2021,"Apr , 2021",4/1/2021,,,,,,52.79,,
+501d81ea-f7b4-4984-8e08-1303d765f861,Buddhika Karakahagoda,Buddhika,Karakahagoda,ALFONSINO S.R.L.,$52.79,4/1/2021,"Apr , 2021",4/1/2021,,,,,,52.79,,
+501d81ea-f7b4-4984-8e08-1303d765f861,Buddhika Karakahagoda,Buddhika,Karakahagoda,ALFONSINO S.R.L.,$52.79,4/1/2021,"Apr , 2021",4/1/2021,,,,,,52.79,,
+501d81ea-f7b4-4984-8e08-1303d765f861,Buddhika Karakahagoda,Buddhika,Karakahagoda,ALFONSINO S.R.L.,$52.79,4/1/2021,"Apr , 2021",4/1/2021,,,,,,52.79,,
+501d81ea-f7b4-4984-8e08-1303d765f861,Buddhika Karakahagoda,Buddhika,Karakahagoda,ALFONSINO S.R.L.,$52.79,4/1/2021,"Apr , 2021",,Under $25 did not dispute,,,,,52.79,,
+501d81ea-f7b4-4984-8e08-1303d765f861,Buddhika Karakahagoda,Buddhika,Karakahagoda,ALFONSINO S.R.L.,$52.79,4/1/2021,"Apr , 2021",,Under $25 did not dispute,,,,,52.79,,
+,Buddhika Karakahagoda,Buddhika,Karakahagoda,ALFONSINO S.R.L.,$52.79,4/1/2021,"Apr , 2021",4/2/2021,,,,,,52.79,,
+,Buddhika Karakahagoda,Buddhika,Karakahagoda,ALFONSINO S.R.L.,$52.79,4/1/2021,"Apr , 2021",4/2/2021,,,,,,52.79,,
+b5e6c95b-f4fa-43d0-8ae0-4981f312cdbd,Eugene Revutsky,Eugene,Revutsky,DEL MAR LABS,$52.79,3/8/2021,"Apr , 2021",04/07/2021,,,,,,52.79,,
+b5e6c95b-f4fa-43d0-8ae0-4981f312cdbd,Eugene Revutsky,Eugene,Revutsky,DEL MAR LABS,$52.79,2/8/2021,"Apr , 2021",04/07/2021,,,,,,52.79,,
+b5e6c95b-f4fa-43d0-8ae0-4981f312cdbd,Eugene Revutsky,Eugene,Revutsky,DEL MAR LABS,$52.79,1/8/2021,"Apr , 2021",04/07/2021,,,,,,52.79,,
+b5e6c95b-f4fa-43d0-8ae0-4981f312cdbd,Eugene Revutsky,Eugene,Revutsky,DEL MAR LABS,$52.79,12/8/2020,"Apr , 2021",04/07/2021,,,,,,52.79,,
+b5e6c95b-f4fa-43d0-8ae0-4981f312cdbd,Eugene Revutsky,Eugene,Revutsky,DEL MAR LABS,$52.79,11/8/2020,"Apr , 2021",04/07/2021,,,,,,52.79,,
+38db407c-e8ed-4466-b9cf-4bd3ecbbef27,FB Trading LLC.,Fredrico ,Brocher,EGIFT CARD888 267 0447,$52.79,4/14/2021,"Apr , 2021",,AUTHORAZATION REVERSAL - did not dispute,,,,,52.79,,
+38db407c-e8ed-4466-b9cf-4bd3ecbbef27,FB Trading LLC.,Fredrico ,Brocher,SAKSFIFTHAVENUE.COM,$52.79,4/14/2021,"Apr , 2021",4/19/20,Credit requested by seller ,,,,,52.79,,
+f17e10bd-b0dc-49d3-8fce-1c641c5f98dd,Rafael Maraldi,Rafael,Maraldi,Apple.com,$52.79,1/15/2021,"Jan , 2021",4/26/2021,Claimed he didn't authroize txn,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,"
+APPLE.COM/BILL",$52.79,12/25/2020,"Dec , 2020",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,12/25/2020,"Dec , 2020",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,12/25/2020,"Dec , 2020",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,12/25/2020,"Dec , 2020",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,12/26/2020,"Dec , 2020",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,12/26/2020,"Dec , 2020",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,12/26/2020,"Dec , 2020",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,12/28/2020,"Dec , 2020",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,12/27/2020,"Dec , 2020",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,12/28/2020,"Dec , 2020",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,12/28/2020,"Dec , 2020",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,12/28/2020,"Dec , 2020",4/26/2021,Didnt dispute under $25,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,12/30/2020,"Dec , 2020",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/1/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/1/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/3/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/4/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/4/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/4/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/4/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/7/2021,"Jan , 2021",4/26/2021,Didnt dispute under $25,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/7/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/7/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/9/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/10/2021,"Jan , 2021",4/26/2021,Didnt dispute under $25,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/10/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/10/2021,"Jan , 2021",4/26/2021,Didnt dispute under $25,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/10/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/11/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/11/2021,"Jan , 2021",4/26/2021,Didnt dispute under $25,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/11/2021,"Jan , 2021",4/26/2021,Didnt dispute under $25,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/12/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/13/2021,"Jan , 2021",4/26/2021,Didnt dispute under $25,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/12/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/13/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/13/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/14/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/15/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/15/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/15/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/15/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/15/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/15/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/16/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/16/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/16/2021,"Jan , 2021",4/26/2021,Didnt dispute under $25,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/17/2021,"Jan , 2021",4/26/2021,Didnt dispute under $25,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/18/2021,"Jan , 2021",4/26/2021,Didnt dispute under $25,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/18/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/17/2021,"Jan , 2021",4/26/2021,Didnt dispute under $25,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/17/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/17/2021,"Jan , 2021",4/26/2021,Didnt dispute under $25,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/17/2021,"Jan , 2021",4/26/2021,Didnt dispute under $25,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/18/2021,"Jan , 2021",4/26/2021,Didnt dispute under $25,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/19/2021,"Jan , 2021",4/26/2021,Didnt dispute under $25,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/20/2021,"Jan , 2021",4/26/2021,Didnt dispute under $25,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/20/2021,"Jan , 2021",4/26/2021,Didnt dispute under $25,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/20/2021,"Jan , 2021",4/26/2021,Didnt dispute under $25,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/19/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/21/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/21/2021,"Jan , 2021",4/26/2021,Didnt dispute under $25,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/20/2021,"Jan , 2021",4/26/2021,Didnt dispute under $25,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/20/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/22/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/22/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/22/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/22/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/22/2021,"Jan , 2021",4/26/2021,Didnt dispute under $25,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/24/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/23/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/24/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/24/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/25/2021,"Jan , 2021",4/26/2021,Didnt dispute under $25,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/25/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/25/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/25/2021,"Jan , 2021",4/26/2021,Didnt dispute under $25,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/25/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/25/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/25/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/26/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+a51de184-3db2-4b32-8ee8-66081785fa21,Joseph Kowalewski,Joseph,Kowalewski,APPLE.COM/BILL,$52.79,1/26/2021,"Jan , 2021",4/26/2021,,,,,,52.79,,
+5d249f0f-d55f-4721-a808-fab1872c610a,Joshua Mora,Joshua,Mora,Walgreens ,$52.79,4/29/2021,"May , 2021",5/12/21,,,,,,52.79,,
+5d249f0f-d55f-4721-a808-fab1872c610a,Joshua Mora,Joshua,Mora,Walmart ,$52.79,4/28/2021,"May , 2021",5/12/21,,,,,,52.79,,
+5d249f0f-d55f-4721-a808-fab1872c610a,Joshua Mora,Joshua,Mora,MURPHY5715ATWALMART,$52.79,4/28/2021,"May , 2021",5/12/21,,,,,,52.79,,
+1f77b639-3203-4987-b945-2de508f6019c,Hilse Verapena,Hilse,Verapena,WWW.SOURCEMOGUL.COM,$52.79,6/1/2021,"Jun , 2021",6/8/2021,,,,,,52.79,,MN
+76fa8299-29cc-4341-8ace-e29df6664877,Reginaldo dos Santos Pinto Lee,Reginaldo,dos Santos Pinto Lee,Whitepages,$52.79,6/6/2021,"Jun , 2021",6/9/21,,,,,,52.79,,
+76fa8299-29cc-4341-8ace-e29df6664877,Reginaldo dos Santos Pinto Lee,Reginaldo,dos Santos Pinto Lee,Whitepages,$52.79,6/6/2021,"Jun , 2021",6/9/21,,,,,,52.79,,
+76fa8299-29cc-4341-8ace-e29df6664877,Reginaldo dos Santos Pinto Lee,Reginaldo,dos Santos Pinto Lee,DOMINO'S 7751,$52.79,6/5/2021,"Jun , 2021",6/9/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,SP * NORTHWOOD CANDLE,$52.79,6/9/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,ALLIANZ TRAVEL INS,$52.79,6/9/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,ALLIANZ EVENT INS,$52.79,6/8/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,VIVID SEATS *FOO FIGHT,$52.79,6/8/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,SP * LAZA MODZ LLC,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,SP * CRAZY CONTROLLERS,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,PERSONAL,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,TINYCHAT.COM,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,TINYCHAT.COM,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,AIRMAGNETIC.COM,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,SP * NATIONAL COMEDY C,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,CHIPOTLE ONLINE,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,SP * SIMPLYHE,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,Alibaba.com,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,TINYCHAT.COM,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,SP * KRKNCOL,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,Ding 84218251,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,vtsup.com*Avantekus,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,Alibaba.com,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,TINYCHAT.COM,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,TINYCHAT.COM,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,DING *84218103,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,DNPAYNET.COM,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,TINYCHAT.COM,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,DNPAYNET.COM,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,OSN,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,Alibaba.com,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,ABU DHABI MEDIA PJSC,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,ABU DHABI MEDIA PJSC,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,PLAYCO ENTERTAINMENT F,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,TINYCHAT.COM,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,SP * TAOTRONICS,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,PLAYCO ENTERTAINMENT F,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,VPN Anonymous,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,BRUTX,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,TINYCHAT.COM,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,Molotov,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,TINYCHAT.COM,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,GOPUFF,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,TINYCHAT.COM,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,TINYCHAT.COM,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,TINYCHAT.COM,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,Molotov,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,SP * ANYWHERE ESSENTIA,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,DOMINO'S 3741,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,FCIAS SAN NICOLAS EN LINE,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,SKIN.CLUB,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,SP * APHRODITES,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,Pura Vida,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,Molotov,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,Molotov,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,CARNICERIA CAMPOS,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,TINYCHAT.COM,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,DRI*NVIDIA Store,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,Molotov,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,CHEGG *ORDER,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,WWW.SOCIETE-NOIR.CO.UK,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,CHEGG *ORDER,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,JUSTINMIND,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,NETFLIX.COM,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+60d1af1c-e8b8-45b9-bae7-bc5c9ef48211,James Iacono,James,Iacono,BAM*VOYAGEUR SOAP AND CAN,$52.79,6/7/2021,"Jun , 2021",6/10/21,,,,,,52.79,,
+dc0bba7b-2f2f-42d5-bbf0-bdc30a825477,Eric Lowery,Eric,Lowery,ANC*ANCESTRY.COM,$52.79,6/12/2021,"Jun , 2021",6/24/2021,,,,,,52.79,,
+38db407c-e8ed-4466-b9cf-4bd3ecbbef27,Federico Brocher,Federico ,Brocher,PAYPAL *EBAY US,$52.79,4/27/2021,"Jul , 2021",07/21/21,,,,,,52.79,,MH
+021b1688-9ab9-4462-95a1-86628eb0f4c5,Ron Fugle ,Ron ,Fugle ,Ecitizen ,$52.79,7/14/2021,"Jul , 2021",07/21/21,,,,,,52.79,,MH
+021b1688-9ab9-4462-95a1-86628eb0f4c5,Ron Fugle ,Ron ,Fugle ,Ecitizen ,$52.79,7/14/2021,"Jul , 2021",07/21/21,,,,,,52.79,,MH
+021b1688-9ab9-4462-95a1-86628eb0f4c5,Ron Fugle ,Ron ,Fugle ,Ecitizen ,$52.79,7/14/2021,"Jul , 2021",07/21/21,,,,,,52.79,,MH
+021b1688-9ab9-4462-95a1-86628eb0f4c5,Ron Fugle ,Ron ,Fugle ,Ecitizen ,$52.79,7/15/2021,"Jul , 2021",07/21/21,,,,,,52.79,,MH
+021b1688-9ab9-4462-95a1-86628eb0f4c5,Ron Fugle ,Ron ,Fugle ,Ecitizen ,$52.79,7/15/2021,"Jul , 2021",07/21/21,,,,,,52.79,,MH
+021b1688-9ab9-4462-95a1-86628eb0f4c5,Ron Fugle ,Ron ,Fugle ,Ecitizen ,$52.79,7/15/2021,"Jul , 2021",07/21/21,,,,,,52.79,,MH
+021b1688-9ab9-4462-95a1-86628eb0f4c5,Ron Fugle ,Ron ,Fugle ,Ecitizen ,$52.79,7/15/2021,"Jul , 2021",07/21/21,,,,,,52.79,,MH
+021b1688-9ab9-4462-95a1-86628eb0f4c5,Ron Fugle ,Ron ,Fugle ,Ecitizen ,$52.79,7/15/2021,"Jul , 2021",07/21/21,,,,,,52.79,,MH
+021b1688-9ab9-4462-95a1-86628eb0f4c5,Ron Fugle ,Ron ,Fugle ,Ecitizen ,$52.79,7/15/2021,"Jul , 2021",07/21/21,,,,,,52.79,,MH
+021b1688-9ab9-4462-95a1-86628eb0f4c5,Ron Fugle ,Ron ,Fugle ,Ecitizen ,$52.79,7/15/2021,"Jul , 2021",07/21/21,,,,,,52.79,,MH
+021b1688-9ab9-4462-95a1-86628eb0f4c5,Ron Fugle ,Ron ,Fugle ,Ecitizen ,$52.79,7/15/2021,"Jul , 2021",07/21/21,,,,,,52.79,,MH
+021b1688-9ab9-4462-95a1-86628eb0f4c5,Ron Fugle ,Ron ,Fugle ,Ecitizen ,$52.79,7/15/2021,"Jul , 2021",07/21/21,,,,,,52.79,,MH
+021b1688-9ab9-4462-95a1-86628eb0f4c5,Ron Fugle ,Ron ,Fugle ,Ecitizen ,$52.79,7/15/2021,"Jul , 2021",07/21/21,,,,,,52.79,,MH
+021b1688-9ab9-4462-95a1-86628eb0f4c5,Ron Fugle ,Ron ,Fugle ,Ecitizen ,$52.79,7/15/2021,"Jul , 2021",07/21/21,,,,,,52.79,,MH
+021b1688-9ab9-4462-95a1-86628eb0f4c5,Ron Fugle ,Ron ,Fugle ,Ecitizen ,$52.79,7/15/2021,"Jul , 2021",07/21/21,,,,,,52.79,,MH
+336569ab-56d6-4e58-8922-5b0a3783cff9,Carol Thomas,Carol ,Thomas,Ecitizen ,$52.79,7/26/2021,"Jul , 2021",07/29/21,,,,,,$52.79,,MD
+336569ab-56d6-4e58-8922-5b0a3783cff10,Carol Thomas,Carol ,Thomas,Ecitizen ,$52.79,7/26/2021,"Jul , 2021",7/29,,,,,,$52.79,,MD
+336569ab-56d6-4e58-8922-5b0a3783cff11,Carol Thomas,Carol ,Thomas,Ecitizen ,$52.79,7/26/2021,"Jul , 2021",7/29,,,,,,$52.79,,MD
+336569ab-56d6-4e58-8922-5b0a3783cff12,Carol Thomas,Carol ,Thomas,Ecitizen ,$52.79,7/26/2021,"Jul , 2021",7/29,,,,,,$52.79,,MD
+336569ab-56d6-4e58-8922-5b0a3783cff13,Carol Thomas,Carol ,Thomas,Ecitizen ,$52.79,7/26/2021,"Jul , 2021",7/29,,,,,,$52.79,,MD
+336569ab-56d6-4e58-8922-5b0a3783cff14,Carol Thomas,Carol ,Thomas,Ecitizen ,$52.79,7/26/2021,"Jul , 2021",7/29,,,,,,$52.79,,MD
+336569ab-56d6-4e58-8922-5b0a3783cff15,Carol Thomas,Carol ,Thomas,Ecitizen ,$52.79,7/26/2021,"Jul , 2021",7/29,,,,,,$52.79,,MD
+336569ab-56d6-4e58-8922-5b0a3783cff16,Carol Thomas,Carol ,Thomas,Ecitizen ,$52.79,7/26/2021,"Jul , 2021",7/29,,,,,,$52.79,,MD
+336569ab-56d6-4e58-8922-5b0a3783cff17,Carol Thomas,Carol ,Thomas,Ecitizen ,$52.79,7/26/2021,"Jul , 2021",7/29,,,,,,$52.79,,MD
+336569ab-56d6-4e58-8922-5b0a3783cff18,Carol Thomas,Carol ,Thomas,Ecitizen ,$52.79,7/26/2021,"Jul , 2021",7/29,,,,,,$52.79,,MD
+336569ab-56d6-4e58-8922-5b0a3783cff19,Carol Thomas,Carol ,Thomas,Ecitizen ,$52.79,7/26/2021,"Jul , 2021",7/29,,,,,,$52.79,,MD
+https://internal.payability.com/#/suppliers/9855bae0-dfd5-44d1-b40d-131ca530fae3/general,Igor Kurimets,Igor,Kurimets,VERB ENERGY INC,$440.00,5/21/2021,"May , 2021",8/2,,,,,,,,
+https://internal.payability.com/#/suppliers/9855bae0-dfd5-44d1-b40d-131ca530fae3/general,Igor Kurimets,Igor,Kurimets,PSV*NorthStar Nutritional,$239.76,3/5/2021,"Mar , 2021",8/2,,,,,,,,
+https://internal.payability.com/#/suppliers/87e5fe51-0c0f-4f0f-8149-f4b742dc5fc4/general,Chaim Samuel Nisan,Chaim Samuel,Nisan,Adbadger,$429.00,8/2/2021,"Aug , 2021",08/02,,,,,,,,MH
+https://internal.payability.com/#/suppliers/c17922bf-eb81-40cd-aea0-b908ac52cfb7/general,David Edobor,David,Edobor,Love's Country Store #217,$100.00,8/6/2021,"Aug , 2021",8/8,"Magstripe transaction - seller claims fraud, card still in possesion. ",,,,,,,
+f5873e65-94f7-4728-bdd2-f711da75a6a7,51490 Nobi Products Seller LLC,Duo,Dong,Franklin and son,$97.52,8/16/2021,"Aug , 2021",08/17,,,,,,,,
+f5873e65-94f7-4728-bdd2-f711da75a6a7,51490 Nobi Products Seller LLC,Duo,Dong,Franklin and son,$97.52,8/16/2021,"Aug , 2021",08/17,,,,,,,,
+f5873e65-94f7-4728-bdd2-f711da75a6a7,51490 Nobi Products Seller LLC,Duo,Dong,Franklin and son,$97.52,8/16/2021,"Aug , 2021",08/17,,,,,,,,
+f5873e65-94f7-4728-bdd2-f711da75a6a7,51490 Nobi Products Seller LLC,Duo,Dong,Franklin and son,$97.52,8/16/2021,"Aug , 2021",08/17,,,,,,,,
+f5873e65-94f7-4728-bdd2-f711da75a6a7,51490 Nobi Products Seller LLC,Duo,Dong,Franklin and son,$97.52,8/16/2021,"Aug , 2021",08/17,,,,,,,,
+aa6dc78d-c343-4295-99ef-2f0188904197,Igor Soares De Carvalho,Igor ,Soares De Carvalho,Onlyfans,$37.44,10/4/2021,"Oct , 2021",10/6,,,,,,,,
+dfa36aa0-7a2b-48e0-be6f-92aff09904a2,Oscar Marroquin Chevez,Oscar,Marroquin Chevez,Simplemobile airtime,$66.99,10/1/2021,"Oct , 2021",10/8,,,,,,,,
+f72447ac-e14f-4266-8ea4-66922f5f54b3,Simons LLC,William ,Simons,UA.com,$21.20,10/30/2021,"Nov , 2021",11/06,,,,,,,,
+f72447ac-e14f-4266-8ea4-66922f5f54b3,Simons LLC,William ,Simons,UA.com,$21.20,10/30/2021,"Nov , 2021",11/06,,,,,,,,
+f72447ac-e14f-4266-8ea4-66922f5f54b3,Simons LLC,William ,Simons,UA.com,$21.20,10/30/2021,"Nov , 2021",11/06,,,,,,,,
+f72447ac-e14f-4266-8ea4-66922f5f54b3,Simons LLC,William ,Simons,UA.com,$21.20,10/30/2021,"Nov , 2021",11/06,,,,,,,,
+f72447ac-e14f-4266-8ea4-66922f5f54b3,Simons LLC,William ,Simons,UA.com,$21.20,10/30/2021,"Nov , 2021",11/06,,,,,,,,
+f72447ac-e14f-4266-8ea4-66922f5f54b3,Simons LLC,William ,Simons,UA.com,$21.20,10/30/2021,"Nov , 2021",11/06,,,,,,,,
+f72447ac-e14f-4266-8ea4-66922f5f54b3,Simons LLC,William ,Simons,UA.com,$42.40,10/30/2021,"Nov , 2021",11/06,,,,,,,,
+f72447ac-e14f-4266-8ea4-66922f5f54b3,Simons LLC,William ,Simons,UA.com,$42.40,10/30/2021,"Nov , 2021",11/06,,,,,,,,
+f72447ac-e14f-4266-8ea4-66922f5f54b3,Simons LLC,William ,Simons,UA.com,$42.40,10/30/2021,"Nov , 2021",11/06,,,,,,,,
+f72447ac-e14f-4266-8ea4-66922f5f54b3,Simons LLC,William ,Simons,UA.com,$63.99,10/30/2021,"Nov , 2021",11/06,,,,,,,,
+f72447ac-e14f-4266-8ea4-66922f5f54b3,Simons LLC,William ,Simons,UA.com,$127.20,10/30/2021,"Nov , 2021",11/06,,,,,,,,
+f72447ac-e14f-4266-8ea4-66922f5f54b3,Simons LLC,William ,Simons,UA.com,$42.40,10/30/2021,"Nov , 2021",11/06,,,,,,,,
+,,Kenneth ,Mccowan,SPEEDWAY 05376 1621 W JEF,$100.00,11/6/2021,"Nov , 2021",11/10,,,,,,,,
+,,Kenneth ,Mccowan,SPEEDWAY 05376 1621 W JEF,$26.18,11/6/2021,"Nov , 2021",11/10,,,,,,,,
+,,Kenneth ,Mccowan,Joes Beverge Warehouse,$67.24,11/6/2021,"Nov , 2021",11/10,,,,,,,,
+,,Kenneth ,Mccowan,Aurelios Pizza,$18.53,11/6/2021,"Nov , 2021",11/10,,,,,,,,
+,,Kenneth ,Mccowan,Tobacco and Cigar,$36.24,11/6/2021,"Nov , 2021",11/10,,,,,,,,
+,,Kenneth ,Mccowan,WM Supercenter,$9.52,11/6/2021,"Nov , 2021",11/10,,,,,,,,
+bb3908d2-bf41-41d7-8b0a-4bee5d636bcf,Wellnesstar Inc.,Yekaterina,Gordin,CT1 SAN FRANCISCO,"$3,293.66",11/17/2021,"Nov , 2021",11/19,,,,,,,,
+4ccd0dc3-9dd6-4121-ab8b-2ab5f5785f06,"Augusta Portraits, LLC",Brad,Salmons,FOOD.BOLT.EU /C/211125164,$20.27,11/25/2021,"Nov , 2021",11/30/2021,,,,,,,,
+4ccd0dc3-9dd6-4121-ab8b-2ab5f5785f06,"Augusta Portraits, LLC",Brad,Salmons,FOOD.BOLT.EU /C/211125161,$46.68,11/25/2021,"Nov , 2021",11/30/2021,,,,,,,,
+4ccd0dc3-9dd6-4121-ab8b-2ab5f5785f06,"Augusta Portraits, LLC",Brad,Salmons,FOOD.BOLT.EU /C/211125152,$10.37,11/25/2021,"Nov , 2021",11/30/2021,,,,,,,,
+4ccd0dc3-9dd6-4121-ab8b-2ab5f5785f06,"Augusta Portraits, LLC",Brad,Salmons,FOOD.BOLT.EU /C/211125151,$47.01,11/25/2021,"Nov , 2021",11/30/2021,,,,,,,,
+4ccd0dc3-9dd6-4121-ab8b-2ab5f5785f06,"Augusta Portraits, LLC",Brad,Salmons,FOOD.BOLT.EU /C/211125145,$22.43,11/25/2021,"Nov , 2021",11/30/2021,,,,,,,,
+4ccd0dc3-9dd6-4121-ab8b-2ab5f5785f06,"Augusta Portraits, LLC",Brad,Salmons,FOOD.BOLT.EU /C/211125145,$18.37,11/25/2021,"Nov , 2021",11/30/2021,,,,,,,,
+4ccd0dc3-9dd6-4121-ab8b-2ab5f5785f06,"Augusta Portraits, LLC",Brad,Salmons,GetYourGuide Operations I,$409.05,11/25/2021,"Nov , 2021",12/16/2021,,,,,,400.87,,MN
+0769ca51-50c5-483c-b22e-c3890f6676e6,The Goods Distributor Llc,Sara,Hooper,Cosmetix Club,$883.28,11/22/2021,"Nov , 2021",12/14/2021,,,,,,,,
+622bb80e-4a86-4c9b-b107-75f002fecef6,Eulalio Villalon,Eulalio,Villalon,SUNOCO 0209517200,$99.61,1/26/2022,"Jan , 2022",1/28/2022,,,,,,0,,MN
+622bb80e-4a86-4c9b-b107-75f002fecef6,Eulalio Villalon,Eulalio,Villalon,SUNOCO 0332657600,$99.74,1/25/2022,"Jan , 2022",1/28/2022,,,,,,0,,MN
+622bb80e-4a86-4c9b-b107-75f002fecef6,Eulalio Villalon,Eulalio,Villalon,SUNOCO 0209517200,$99.56,1/24/2022,"Jan , 2022",1/28/2022,,,,,,0,,
+941e59a3-4bc3-4385-8472-3dabf8405601,Brian Vick,Brian,Vick,CRYE PRECISION,"$1,332.80",2/2/2022,"Feb , 2022",2/9/2022,,,,,,0,,AC
+e9172c68-2d3d-48ec-a9ad-99efc154f644,Solaris Commerce LLC,Alex,Olsen,Gamestop,$273.60,11/26/2021,"Feb , 2022",2/10/2022,,,,,,0,,AC
+86beb35e-31a4-4867-befc-f759f3b27b79,KENN & CO L L C,Kennedy,Lowery,Homedepot #3505,"$3,495.78",2/7/2022,"Feb , 2022",2/17/22,,,,,,3425.86,,MN
+189bbbe0-6ef7-45ae-b317-8291b2a694bc,Christopher Goforth,Christopher,Goforth,SP * BOUNCY HOP,"$1,417.19",12/24/2021,"Feb , 2020",,,,,,,,,TK
+78d51c06-355b-4b40-b366-896fd223c356,Geoff Lee,Geoff,Lee,webtalk.co,$200.00,3/1/2022,"Mar , 2022",3/4/22,reoccurring txn,,,,,,,
+c25cd8f8-ad57-4206-85e1-04232ea57abd,Verna Emerson,Verna,Emerson,WALMART.COM,$45.95,1/16/2022,"Jan , 2022",3/4/22,,,,,,,,MM
+c25cd8f8-ad57-4206-85e1-04232ea57abd,Verna Emerson,Verna,Emerson,4001 JNN RIVERCHASE,$32.03,2/3/2022,"Feb , 2022",3/4/22,,,,,,,,MM
+c25cd8f8-ad57-4206-85e1-04232ea57abd,Verna Emerson,Verna,Emerson,UBER EATS,$26.14,2/20/2022,"Feb , 2022",3/4/22,,,,,,,,MM
+c25cd8f8-ad57-4206-85e1-04232ea57abd,Verna Emerson,Verna,Emerson,KRYSTAL,$25.55,1/22/2022,"Jan , 2022",3/4/22,,,,,,,,MM
