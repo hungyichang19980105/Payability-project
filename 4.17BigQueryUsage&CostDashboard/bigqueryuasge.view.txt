@@ -1,0 +1,126 @@
+view: bq_usage_cost {
+  derived_table: {
+    sql: SELECT
+          table_catalog, table_schema, table_name, tables.table_type AS table_type1, creation_time AS table_creation_time,
+          audit_tables.createTime As run_time,
+          audit_tables.principalEmail,
+          audit_tables.statementType,
+          audit_tables.jobId,
+          audit_tables.table_type,
+          Query_Table.isError,
+          Query_Table.totalBilledGigabytes,
+          Query_Table.totalBilledTerabytes,
+          Query_Table.estimatedCostUsd,
+          Query_Table.runtimeSecs
+      FROM
+      region-us.INFORMATION_SCHEMA.TABLES AS tables
+      LEFT JOIN
+      bq_audits.bq_query_audit_tables AS audit_tables
+      ON tables.table_catalog= audit_tables.projectId AND tables.table_schema= audit_tables.datasetId AND tables.table_name= audit_tables.tableId
+      AND CASE tables.table_type WHEN 'BASE TABLE' THEN audit_tables.table_type ='table' WHEN 'VIEW' THEN  audit_tables.table_type ='view' END
+      LEFT JOIN
+      bq_audits.bq_query_audit AS Query_Table
+      ON audit_tables.jobID = Query_Table.jobID
+      ;;
+  }
+
+  measure: count {
+    type: count
+    drill_fields: [detail*]
+  }
+
+  dimension: table_catalog {
+    type: string
+    sql: ${TABLE}.table_catalog ;;
+  }
+
+  dimension: table_schema {
+    type: string
+    sql: ${TABLE}.table_schema ;;
+  }
+
+  dimension: table_name {
+    type: string
+    sql: ${TABLE}.table_name ;;
+  }
+
+  dimension: table_type1 {
+    type: string
+    sql: ${TABLE}.table_type1 ;;
+  }
+
+  dimension_group: table_creation_time {
+    type: time
+    sql: ${TABLE}.table_creation_time ;;
+  }
+
+  dimension_group: run_time {
+    type: time
+    sql: ${TABLE}.run_time ;;
+  }
+
+  dimension: principal_email {
+    type: string
+    sql: ${TABLE}.principalEmail ;;
+  }
+
+  dimension: statement_type {
+    type: string
+    sql: ${TABLE}.statementType ;;
+  }
+
+  dimension: job_id {
+    type: string
+    sql: ${TABLE}.jobId ;;
+  }
+
+  dimension: table_type {
+    type: string
+    sql: ${TABLE}.table_type ;;
+  }
+
+  dimension: is_error {
+    type: yesno
+    sql: ${TABLE}.isError ;;
+  }
+
+  dimension: total_billed_gigabytes {
+    type: number
+    sql: ${TABLE}.totalBilledGigabytes ;;
+  }
+
+  dimension: total_billed_terabytes {
+    type: number
+    sql: ${TABLE}.totalBilledTerabytes ;;
+  }
+
+  dimension: estimated_cost_usd {
+    type: number
+    sql: ${TABLE}.estimatedCostUsd ;;
+  }
+
+  dimension: runtime_secs {
+    type: number
+    sql: ${TABLE}.runtimeSecs ;;
+  }
+
+  set: detail {
+    fields: [
+      table_catalog,
+      table_schema,
+      table_name,
+      table_type1,
+      table_creation_time_time,
+      run_time_time,
+      principal_email,
+      statement_type,
+      job_id,
+      table_type,
+      is_error,
+      total_billed_gigabytes,
+      total_billed_terabytes,
+      estimated_cost_usd,
+      runtime_secs
+    ]
+  }
+}
