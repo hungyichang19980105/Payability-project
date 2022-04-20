@@ -1,0 +1,6 @@
+SELECT Audit_Table.tableId, SUM(Query_Table.estimatedCostUsd) AS Estimate_Cost_USD
+FROM bigqueryexport-183608.bq_audits.bq_query_audit_tables AS Audit_Table
+LEFT JOIN bigqueryexport-183608.bq_audits.bq_query_audit AS Query_Table 
+ON Audit_Table.jobID = Query_Table.jobID
+GROUP BY Audit_Table.tableId
+ORDER BY Estimate_Cost_USD DESC

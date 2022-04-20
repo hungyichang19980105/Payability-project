@@ -1,0 +1,11 @@
+SELECT Audit_Table.tableId, Audit_Table.principalEmail,Query_Table.isError, Query_Table.totalBilledGigabytes, Query_Table.totalBilledTerabytes, Query_Table.estimatedCostUsd
+FROM bigqueryexport-183608.bq_audits.bq_query_audit_tables AS Audit_Table
+LEFT JOIN bigqueryexport-183608.bq_audits.bq_query_audit AS Query_Table 
+ON Audit_Table.jobID = Query_Table.jobID
+RIGHT JOIN
+  region-us.INFORMATION_SCHEMA.TABLES AS tables 
+  ON tables.table_catalog= Audit_table.projectId AND tables.table_schema= audit_table.datasetId AND tables.table_name= audit_table.tableId
+              AND CASE tables.table_type WHEN 'BASE TABLE' THEN audit_table.table_type ='table' WHEN 'VIEW' THEN  audit_table.table_type ='view' END
+ORDER BY Query_Table.estimatedCostUsd DESC
+
+

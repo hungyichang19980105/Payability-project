@@ -1,0 +1,8 @@
+SELECT
+      table_name, max(load_tables.createTime) AS last_load_date, sum(load_tables.totalLoadOutputGigabytes) AS totalLoadOutputGigabytes
+FROM
+      region-us.INFORMATION_SCHEMA.TABLES AS tables
+LEFT JOIN
+      bigqueryexport-183608.bq_audits.bq_load_audit AS load_tables
+      ON tables.table_catalog= load_tables.load.destinationTable.projectId AND tables.table_schema= load_tables.load.destinationTable.datasetId AND tables.table_name= load_tables.load.destinationTable.tableId
+GROUP BY table_name
