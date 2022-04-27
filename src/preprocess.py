@@ -19,6 +19,7 @@ def preprocess_data(config: DictConfig):
     df = df.drop(df.columns[[0]], axis=1)
     df = df.drop('acceptor_state', axis=1)
     df = df.drop('pin_present', axis=1)
+    # df.add
 
     # Convert amount to float
     def s2f(s):
