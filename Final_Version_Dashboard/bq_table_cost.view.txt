@@ -1,0 +1,93 @@
+view: bq_query_cost {
+  derived_table: {
+    sql: SELECT
+          Cast(isError as string) AS ErrorType,
+          totalBilledTerabytes AS BilledTB,
+          estimatedCostUsd AS Cost,
+          runtimeSecs AS runningTime,
+          principalEmail AS User,
+          createTime
+FROM bq_audits.bq_query_audit
+GROUP BY User, ErrorType, BilledTB, Cost, runningTime, createTime
+ ;;
+  }
+
+  measure: count {
+    type: count
+    drill_fields: [detail*]
+  }
+
+  measure: totalcost{
+    type: sum
+    sql: ${TABLE}.Cost;;
+    value_format_name: usd
+  }
+
+  measure: totalBilledTB{
+    type: sum
+    sql: ${TABLE}.BilledTB ;;
+    value_format_name: decimal_0
+  }
+
+  measure: AveageRunningTime {
+    type: average
+    sql: ${TABLE}.runningTime ;;
+  }
+  
+  measure: Successful {
+    type: sum
+    sql: case when ${TABLE}.ErrorType = "false" then 1 end;;
+  }
+  
+  measure: error {
+    type: sum
+    sql: case when ${TABLE}.ErrorType = "true" then 1 end;;
+  }
+  
+  measure: ratio {
+    type: number
+    sql: ${Successful}/nullif(${Successful}+${error},0);;
+  }
+
+  dimension: error_type {
+    type: string
+    sql: ${TABLE}.ErrorType ;;
+  }
+
+  dimension: billed_tb {
+    type: number
+    sql: ${TABLE}.BilledTB ;;
+  }
+
+  dimension: cost {
+    type: number
+    sql: ${TABLE}.Cost ;;
+    value_format_name: usd
+  }
+
+  dimension: running_time {
+    type: number
+    sql: ${TABLE}.runningTime ;;
+  }
+
+  dimension: user {
+    type: string
+    sql:RPAD(${TABLE}.User,4,"*");;
+  }
+
+  dimension_group: create_time {
+    type: time
+    sql: ${TABLE}.createTime ;;
+  }
+
+  set: detail {
+    fields: [
+      error_type,
+      billed_tb,
+      cost,
+      running_time,
+      user,
+      create_time_time
+    ]
+  }
+}
