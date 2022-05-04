@@ -1,0 +1,91 @@
+vview: bq_table_usage {
+  derived_table: {
+    sql: SELECT
+          table_catalog, table_schema,
+          table_name,
+          creation_time AS table_creation_time,
+          audit_tables.createTime AS run_time,
+          audit_tables.statementType AS StatementType,
+          audit_tables.table_type As TableType
+FROM
+      region-us.INFORMATION_SCHEMA.TABLES AS tables
+LEFT JOIN
+      bq_audits.bq_query_audit_tables AS audit_tables
+      ON tables.table_catalog= audit_tables.projectId AND tables.table_schema= audit_tables.datasetId AND tables.table_name= audit_tables.tableId
+      AND CASE tables.table_type WHEN 'BASE TABLE' THEN audit_tables.table_type ='table' WHEN 'VIEW' THEN  audit_tables.table_type ='view' END
+GROUP BY   table_catalog, table_schema, table_name, table_creation_time, run_time, StatementType, TableType
+ ;;
+  }
+
+  measure: count {
+    type: count
+    drill_fields: [detail*]
+  }
+
+  measure: select {
+    type: sum
+    sql: case when ${TABLE}.StatementType = 'SELECT' then 1 end;;
+  }
+
+  measure: nonselect {
+    type: sum
+    sql: case when ${TABLE}.StatementType != 'SELECT' then 1 end;;
+  }
+
+  measure: ratio {
+    type: number
+    sql: ${select}/nullif(${select}+${nonselect},0);;
+  }
+
+  dimension: statementType {
+    type: yesno
+    sql: ${TABLE}.StatementType = 'SELECT';;
+  }
+
+  dimension: table_catalog {
+    type: string
+    sql: ${TABLE}.table_catalog ;;
+  }
+
+  dimension: table_schema {
+    type: string
+    sql: ${TABLE}.table_schema ;;
+  }
+
+  dimension: table_name {
+    type: string
+    sql: ${TABLE}.table_name ;;
+  }
+
+  dimension_group: table_creation_time {
+    type: time
+    sql: ${TABLE}.table_creation_time ;;
+  }
+
+  dimension_group: run_time {
+    type: time
+    sql: ${TABLE}.run_time ;;
+  }
+
+  dimension: statement_type {
+    type: string
+    sql: ${TABLE}.StatementType ;;
+  }
+
+  dimension: table_type {
+    type: string
+    sql: ${TABLE}.TableType ;;
+  }
+
+  set: detail {
+    fields: [
+      table_catalog,
+      table_schema,
+      table_name,
+      table_creation_time_time,
+      run_time_time,
+      statement_type,
+      table_type
+    ]
+  }
+}
